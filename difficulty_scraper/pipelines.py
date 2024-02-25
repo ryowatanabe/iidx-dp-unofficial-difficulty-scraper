@@ -9,7 +9,7 @@ import logging
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
 
-class EreternetScraperPipeline:
+class DifficultyScraperPipeline:
     _db = None
 
     @classmethod
@@ -32,12 +32,21 @@ class EreternetScraperPipeline:
                 hc_count INTEGER NOT NULL, \
                 exh_count INTEGER NOT NULL \
             );')
+        cursor.execute(
+            'CREATE TABLE IF NOT EXISTS unofficial_difficulty(\
+                song_id TEXT PRIMARY KEY, \
+                name TEXT NOT NULL, \
+                difficulty TEXT NOT NULL, \
+                unofficial_diff REAL NOT NULL \
+            );')
 
         return cls._db
 
     def process_item(self, item, spider):
         if type(item).__name__ == 'EreterNetDifficulty':
             self.save_ereternet_difficulty(item)
+        elif type(item).__name__ == 'UnofficialDifficulty':
+            self.save_unofficial_difficulty(item)
 
         return item
 
@@ -58,6 +67,20 @@ class EreternetScraperPipeline:
                 item['ec_count'],
                 item['hc_count'],
                 item['exh_count']
+            )
+        )
+        db.commit()
+
+    def save_unofficial_difficulty(self, item):
+        db = self.get_database()
+        db.execute(
+            'REPLACE INTO unofficial_difficulty( \
+                song_id, name, difficulty, unofficial_diff \
+            ) VALUES (?, ?, ?, ?)', (
+                item['song_id'],
+                item['name'],
+                item['difficulty'],
+                item['unofficial_diff']
             )
         )
         db.commit()

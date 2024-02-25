@@ -64,7 +64,7 @@ DOWNLOAD_DELAY = 5
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-    "difficulty_scraper.pipelines.EreternetScraperPipeline": 300,
+    "difficulty_scraper.pipelines.DifficultyScraperPipeline": 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
