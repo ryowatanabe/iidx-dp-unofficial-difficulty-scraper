@@ -9,7 +9,6 @@ import logging
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
 
-
 class EreternetScraperPipeline:
     _db = None
 
