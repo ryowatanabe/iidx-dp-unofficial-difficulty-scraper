@@ -16,7 +16,7 @@ class EreternetScraperPipeline:
     @classmethod
     def get_database(cls):
         cls._db = sqlite3.connect(
-            os.path.join(os.getcwd(), 'data.db'))
+            os.path.join(os.getcwd(), './data/data.db'))
 
         # テーブル作成
         cursor = cls._db.cursor()

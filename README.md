@@ -12,3 +12,6 @@
 
 > # retrieve latest data and merge them into local database
 > scrapy crawl ereternet_spider
+> 
+> # export into csv
+> ./export_csv.sh
