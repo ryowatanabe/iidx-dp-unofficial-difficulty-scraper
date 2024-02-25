@@ -10,4 +10,4 @@
 
 # usage
 
-> 
+> scrapy crawl ereternet_spider -o data.csv
