@@ -10,4 +10,5 @@
 
 # usage
 
-> scrapy crawl ereternet_spider -o data.csv
+> # retrieve latest data and merge them into local database
+> scrapy crawl ereternet_spider

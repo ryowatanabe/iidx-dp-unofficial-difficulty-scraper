@@ -2,7 +2,7 @@ import scrapy
 import re
 from difficulty_scraper.items import EreterNetDifficulty
 
-class EreternetSpiderSpider(scrapy.Spider):
+class EreternetSpider(scrapy.Spider):
     name = "ereternet_spider"
     allowed_domains = ["ereter.net"]
     start_urls = ["http://ereter.net/iidxsongs/analytics/combined/"]
