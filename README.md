@@ -1,3 +1,11 @@
+# overview
+
+for beatmania IIDX DP players : 
+
+this tool retrieves  unofficial difficulty from below 2 sites
+
+- [ereter.net](http://ereter.net/)
+- [IIDX DP unofficial difficulty](https://zasa.sakura.ne.jp/dp/rank.php)
 
 # requirements 
 
