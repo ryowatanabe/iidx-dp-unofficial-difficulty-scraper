@@ -6,6 +6,7 @@
 import scrapy
 
 class EreterNetDifficulty(scrapy.Item):
+    song_id = scrapy.Field()
     name = scrapy.Field()
     difficulty = scrapy.Field()
     unofficial_diff = scrapy.Field()

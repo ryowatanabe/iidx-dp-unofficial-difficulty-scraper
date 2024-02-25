@@ -10,6 +10,7 @@ class EreternetSpiderSpider(scrapy.Spider):
     def parse(self, response):
         for music in response.css('body > div > div > div.col-md-9.content > div.scale-wrapper > table > tbody > tr'):
             yield EreterNetDifficulty(
+                song_id         = re.sub('^.*/([0-9]+)/$', r'\1', music.css('td:nth-child(2) > a::attr(href)').extract_first().strip()),
                 name            = music.css('td:nth-child(2) > a::text').extract_first().strip(),
                 difficulty      = re.sub('^\((.+)\)$', r'\1', music.css('td:nth-child(2) > a > span::text').extract_first().strip()),
                 unofficial_diff = re.sub('^.*?([.0-9]+)$', r'\1', music.css('td:nth-child(1)::text').extract_first().strip()),
