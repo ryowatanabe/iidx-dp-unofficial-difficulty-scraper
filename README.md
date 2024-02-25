@@ -10,9 +10,9 @@
 
 # usage
 
-> # retrieve latest data and merge them into local database
-> scrapy crawl ereternet
+> \# retrieve latest data and merge them into local database  
+> scrapy crawl ereternet  
 > scrapy crawl unofficial_diff
 > 
-> # export into csv
+> \# export into csv  
 > ./export_csv.sh
