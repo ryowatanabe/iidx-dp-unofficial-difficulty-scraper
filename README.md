@@ -10,7 +10,7 @@ this tool retrieves  unofficial difficulty from below 2 sites
 # requirements 
 
 - python 3.12+
-- pyenv + poetry
+- poetry
 
 # setup
 
