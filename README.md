@@ -18,6 +18,8 @@ this tool retrieves  unofficial difficulty from below 2 sites
 
 # usage
 
+> poetry shell
+> 
 > \# retrieve latest data and merge them into local database  
 > scrapy crawl ereternet  
 > scrapy crawl unofficial_diff
