@@ -90,7 +90,7 @@ song_id,name,difficulty,unofficial_diff
 02030-5-0,"踊る！福神漬 (CALCUTTA)",HYPER,10.0
 03002-5-0,"Artificial Impatience",HYPER,5.9
 03003-5-0,"Beat Machine",HYPER,6.0
-03004-5-0,"CAN'T STOP FALLIN' IN LOVE",HYPER,7.5
+03004-5-0,"CAN'T STOP FALLIN' IN LOVE",HYPER,8.0
 03005-5-0,"Cold Pulse",HYPER,5.9
 03005-7-0,"Cold Pulse",ANOTHER,5.9
 03006-5-0,"Don't Stop!",HYPER,5.9
@@ -173,7 +173,7 @@ song_id,name,difficulty,unofficial_diff
 04020-5-0,"I'M FOR REAL",HYPER,5.9
 04021-5-0,"INFINITE PRAYER",HYPER,8.0
 04021-7-0,"INFINITE PRAYER",ANOTHER,10.2
-04022-5-0,"Jam & Marmalade",HYPER,6.0
+04022-5-0,"Jam & Marmalade",HYPER,6.5
 04023-5-0,"JIVE INTO THE NIGHT",HYPER,10.7
 04023-7-0,"JIVE INTO THE NIGHT",ANOTHER,11.8
 04024-5-0,KAMIKAZE,HYPER,7.5
@@ -541,6 +541,8 @@ song_id,name,difficulty,unofficial_diff
 09036-9-0,"one or eight",LEGGENDARIA,12.2
 09037-5-0,"OVER THE CLOUDS -Flying Grind mix-",HYPER,5.9
 09038-5-0,"PARANOiA survivor MAX",HYPER,7.5
+09038-5-1,"PARANOIA survivor MAX (EPO)",HYPER,8.0
+09038-7-0,"PARANOIA survivor MAX",ANOTHER,10.7
 09039-5-0,"POWER DREAM",HYPER,8.5
 09039-7-0,"POWER DREAM",ANOTHER,8.5
 09040-5-0,Prelude,HYPER,7.0
@@ -561,7 +563,7 @@ song_id,name,difficulty,unofficial_diff
 09048-5-0,"STAR FIELD",HYPER,8.5
 09049-5-0,"Sweet Sweet Magic",HYPER,9.0
 09049-7-0,"Sweet Sweet Magic",ANOTHER,10.7
-09050-5-0,"SWEETEST SAVAGE",HYPER,8.0
+09050-5-0,"SWEETEST SAVAGE",HYPER,7.5
 09050-7-0,"SWEETEST SAVAGE (9th)",ANOTHER,8.5
 09050-7-1,"SWEETEST SAVAGE (COP)",ANOTHER,11.4
 09051-5-0,"SWITCH (9th)",HYPER,8.5
@@ -593,7 +595,7 @@ song_id,name,difficulty,unofficial_diff
 10004-7-0,"ALIEN TEMPLE",ANOTHER,10.2
 10005-5-0,"ASTRAL VOYAGE",HYPER,9.3
 10005-7-0,"ASTRAL VOYAGE",ANOTHER,10.7
-10006-5-0,"BABY LOVE",HYPER,8.0
+10006-5-0,"BABY LOVE",HYPER,7.5
 10006-7-0,"BABY LOVE",ANOTHER,11.2
 10007-5-0,"Back Into The light",HYPER,9.6
 10007-7-0,"Back Into The light",ANOTHER,11.2
@@ -1286,11 +1288,11 @@ song_id,name,difficulty,unofficial_diff
 16028-5-0,"smooooch･∀･",HYPER,7.5
 16028-7-0,"smooooch･∀･",ANOTHER,10.5
 16029-5-0,"THE SHINING POLARIS(kors k mix)",HYPER,7.0
-16029-5-1,"THE SHINING POLARIS(kors k mix) (RDT)",HYPER,9.0
+16029-5-1,"THE SHINING POLARIS(kors k mix) (RDT)",HYPER,9.3
 16029-7-0,"THE SHINING POLARIS(kors k mix)",ANOTHER,8.0
-16029-7-1,"THE SHINING POLARIS(kors k mix) (RDT)",ANOTHER,11.0
+16029-7-1,"THE SHINING POLARIS(kors k mix) (RDT)",ANOTHER,11.2
 16030-5-0,"thunder HOUSE NATION Remix (EMP)",HYPER,8.5
-16030-5-1,"thunder HOUSE NATION Remix (BIS)",HYPER,8.0
+16030-5-1,"thunder HOUSE NATION Remix (BIS)",HYPER,7.5
 16030-7-0,"thunder HOUSE NATION Remix",ANOTHER,10.7
 16030-9-0,"thunder HOUSE NATION Remix",LEGGENDARIA,12.4
 16031-5-0,"Turii ～Panta rhei～",HYPER,9.0
@@ -1646,7 +1648,7 @@ song_id,name,difficulty,unofficial_diff
 19013-7-0,"Far east nightbird",ANOTHER,10.2
 19014-5-0,"Follow Tomorrow",HYPER,7.5
 19014-7-0,"Follow Tomorrow",ANOTHER,10.2
-19015-5-0,GIGANT,HYPER,7.0
+19015-5-0,GIGANT,HYPER,7.5
 19015-7-0,GIGANT,ANOTHER,10.2
 19015-9-0,GIGANT,LEGGENDARIA,12.1
 19016-5-0,"I'm so Happy",HYPER,8.5
@@ -1845,7 +1847,7 @@ song_id,name,difficulty,unofficial_diff
 20039-7-0,"rumrum triplets",ANOTHER,11.8
 20040-5-0,S!ck,HYPER,9.0
 20040-7-0,S!ck,ANOTHER,11.6
-20041-5-0,CONCEPTUAL,HYPER,8.0
+20041-5-0,CONCEPTUAL,HYPER,7.5
 20041-7-0,CONCEPTUAL,ANOTHER,11.2
 20042-5-0,"Thor's Hammer",HYPER,9.6
 20042-7-0,"Thor's Hammer",ANOTHER,12.5
@@ -1991,6 +1993,7 @@ song_id,name,difficulty,unofficial_diff
 21020-7-0,"MAGIC & LOVE",ANOTHER,11.6
 21021-5-0,"Miracle 5ympho X",HYPER,9.3
 21021-7-0,"Miracle 5ympho X",ANOTHER,11.4
+21021-9-0,"Miracle 5ympho X",LEGGENDARIA,12.2
 21022-5-0,"NPC World",HYPER,9.3
 21022-7-0,"NPC World",ANOTHER,10.5
 21023-5-0,Odin,HYPER,7.5
@@ -2352,7 +2355,7 @@ song_id,name,difficulty,unofficial_diff
 23020-7-0,"Ride To The Core",ANOTHER,11.4
 23021-5-0,Routing,HYPER,9.0
 23021-7-0,Routing,ANOTHER,11.2
-23022-5-0,"Set U Free feat. Kanae Asaba",HYPER,8.0
+23022-5-0,"Set U Free feat. Kanae Asaba",HYPER,8.5
 23022-7-0,"Set U Free feat. Kanae Asaba",ANOTHER,11.0
 23023-5-0,"SHELTER OF THE MIND",HYPER,8.5
 23023-7-0,"SHELTER OF THE MIND",ANOTHER,11.2
@@ -2391,7 +2394,7 @@ song_id,name,difficulty,unofficial_diff
 23039-7-0,"めいさいアイドル☆あいむちゃん♪",ANOTHER,12.4
 23040-5-0,"Central Station",HYPER,8.0
 23040-7-0,"Central Station",ANOTHER,10.5
-23041-5-0,"Rock It",HYPER,9.0
+23041-5-0,"Rock It",HYPER,8.5
 23041-7-0,"Rock It",ANOTHER,11.4
 23042-5-0,"Violet Rose",HYPER,10.0
 23042-7-0,"Violet Rose",ANOTHER,11.4
@@ -2436,7 +2439,7 @@ song_id,name,difficulty,unofficial_diff
 23061-5-0,"CODE:1 [revision 1.0.1]",HYPER,9.0
 23061-7-0,"CODE:1 [revision 1.0.1]",ANOTHER,12.6
 23062-5-0,"La dolce primavera",HYPER,8.0
-23062-7-0,"La dolce primavera",ANOTHER,11.0
+23062-7-0,"La dolce primavera",ANOTHER,11.2
 23063-5-0,AO-1,HYPER,10.5
 23063-7-0,AO-1,ANOTHER,12.3
 23064-5-0,"GENERATE feat.綾倉盟",HYPER,8.0
@@ -2538,7 +2541,7 @@ song_id,name,difficulty,unofficial_diff
 24027-5-0,"Sweet Clapper",HYPER,6.5
 24027-7-0,"Sweet Clapper",ANOTHER,9.3
 24027-9-0,"Sweet Clapper",LEGGENDARIA,12.3
-24028-5-0,"The Commanders",HYPER,8.0
+24028-5-0,"The Commanders",HYPER,7.5
 24028-7-0,"The Commanders",ANOTHER,10.7
 24029-5-0,"(This Is Not) The Angels",HYPER,8.0
 24029-7-0,"(This Is Not) The Angels",ANOTHER,11.0
@@ -2615,7 +2618,7 @@ song_id,name,difficulty,unofficial_diff
 24063-7-0,"Beat Juggling Mix",ANOTHER,11.4
 24064-5-0,"Piano Samurai",HYPER,9.0
 24064-7-0,"Piano Samurai",ANOTHER,10.0
-24065-5-0,"HAPPY★RUSH",HYPER,9.0
+24065-5-0,"HAPPY★RUSH",HYPER,9.3
 24065-7-0,"HAPPY★RUSH",ANOTHER,11.8
 24066-5-0,"ディッシュウォッシャー◎彡おいわちゃん",HYPER,7.0
 24066-7-0,"ディッシュウォッシャー◎彡おいわちゃん",ANOTHER,11.4
@@ -2733,7 +2736,7 @@ song_id,name,difficulty,unofficial_diff
 25028-7-0,"Nothing But Theory",ANOTHER,11.2
 25029-5-0,O/D*20,HYPER,10.5
 25029-7-0,O/D*20,ANOTHER,11.6
-25029-9-0,O/D*20,LEGGENDARIA,12.5
+25029-9-0,O/D*20,LEGGENDARIA,12.4
 25030-5-0,"Only for now",HYPER,8.0
 25030-7-0,"Only for now",ANOTHER,9.6
 25031-5-0,SPEED,HYPER,8.0
@@ -2851,7 +2854,7 @@ song_id,name,difficulty,unofficial_diff
 25086-7-0,Initiation,ANOTHER,12.6
 25087-5-0,255,HYPER,9.0
 25087-7-0,255,ANOTHER,12.2
-25088-5-0,Antigravity,HYPER,9.0
+25088-5-0,Antigravity,HYPER,9.3
 25088-7-0,Antigravity,ANOTHER,12.0
 25089-5-0,EMERALDAS,HYPER,11.6
 25089-7-0,EMERALDAS,ANOTHER,12.6
@@ -3097,7 +3100,7 @@ song_id,name,difficulty,unofficial_diff
 27010-5-0,"Hold My Hand",HYPER,8.0
 27010-7-0,"Hold My Hand",ANOTHER,10.0
 27011-5-0,"Hyper Drive feat. ぷにぷに電機",HYPER,7.5
-27011-7-0,"Hyper Drive feat. ぷにぷに電機",ANOTHER,9.0
+27011-7-0,"Hyper Drive feat. ぷにぷに電機",ANOTHER,9.3
 27012-5-0,"Infinity Mirror",HYPER,7.5
 27012-7-0,"Infinity Mirror",ANOTHER,10.7
 27013-5-0,Mel,HYPER,7.0
@@ -3315,7 +3318,7 @@ song_id,name,difficulty,unofficial_diff
 28012-5-0,"Here We Are",HYPER,8.0
 28012-7-0,"Here We Are",ANOTHER,10.2
 28013-5-0,"HIGH VOLTAGE",HYPER,6.5
-28013-7-0,"HIGH VOLTAGE",ANOTHER,10.2
+28013-7-0,"HIGH VOLTAGE",ANOTHER,10.0
 28014-5-0,"IIDX RED Ending (Ryu☆Remix)",HYPER,8.0
 28014-7-0,"IIDX RED Ending (Ryu☆Remix)",ANOTHER,10.5
 28015-5-0,"LAST DAY",HYPER,9.0
@@ -3388,7 +3391,7 @@ song_id,name,difficulty,unofficial_diff
 28048-7-0,CONNECT-,ANOTHER,11.2
 28049-5-0,"Hands Up feat. kradness BEMANI Sound Team ""Sota Fujimori"" Remix",HYPER,8.5
 28049-7-0,"Hands Up feat. kradness BEMANI Sound Team ""Sota Fujimori"" Remix",ANOTHER,11.0
-28050-5-0,"The Wind of China Express(The 4th Mashup)",HYPER,8.5
+28050-5-0,"The Wind of China Express(The 4th Mashup)",HYPER,8.0
 28050-7-0,"The Wind of China Express(The 4th Mashup)",ANOTHER,10.5
 28051-5-0,"3!dolon forc3",HYPER,9.0
 28051-7-0,"3!dolon forc3",ANOTHER,12.4
@@ -3400,7 +3403,7 @@ song_id,name,difficulty,unofficial_diff
 28054-7-0,"Crazy Jackpot",ANOTHER,11.4
 28055-5-0,"Explorer feat. ぷにぷに電機",HYPER,7.0
 28055-7-0,"Explorer feat. ぷにぷに電機",ANOTHER,9.6
-28055-9-0,"Explorer feat. ぷにぷに電機",LEGGENDARIA,11.0
+28055-9-0,"Explorer feat. ぷにぷに電機",LEGGENDARIA,10.7
 28056-5-0,Viridian,HYPER,10.0
 28056-7-0,Viridian,ANOTHER,12.4
 28057-5-0,"乱膳の舞姫",HYPER,9.0
@@ -3412,7 +3415,7 @@ song_id,name,difficulty,unofficial_diff
 28060-5-0,"Burning Flame",HYPER,9.0
 28060-7-0,"Burning Flame",ANOTHER,11.2
 28060-9-0,"Burning Flame",LEGGENDARIA,12.3
-28061-5-0,"Rubrum Piano",HYPER,9.3
+28061-5-0,"Rubrum Piano",HYPER,9.0
 28061-7-0,"Rubrum Piano",ANOTHER,12.0
 28062-5-0,"SOLID STATE SQUAD -RISEN RELIC REMIX-",HYPER,10.5
 28062-7-0,"SOLID STATE SQUAD -RISEN RELIC REMIX-",ANOTHER,12.3
@@ -3562,7 +3565,7 @@ song_id,name,difficulty,unofficial_diff
 29029-7-0,"Votania Beat",ANOTHER,10.2
 29030-5-0,"Wonderful Escape",HYPER,7.5
 29030-7-0,"Wonderful Escape",ANOTHER,9.6
-29031-5-0,Xyndrome,HYPER,9.0
+29031-5-0,Xyndrome,HYPER,8.5
 29031-7-0,Xyndrome,ANOTHER,11.6
 29032-5-0,808monkey,HYPER,7.5
 29032-7-0,808monkey,ANOTHER,9.3
@@ -3636,7 +3639,7 @@ song_id,name,difficulty,unofficial_diff
 29064-7-0,"Banger Banger Banger Banger",ANOTHER,11.4
 29065-5-0,"Silver Bullet",HYPER,9.6
 29065-7-0,"Silver Bullet",ANOTHER,12.4
-29066-5-0,"Binary Black Hole",HYPER,10.2
+29066-5-0,"Binary Black Hole",HYPER,10.5
 29066-7-0,"Binary Black Hole",ANOTHER,12.5
 29067-5-0,"Souhait bleu",HYPER,9.0
 29067-7-0,"Souhait bleu",ANOTHER,11.8
@@ -3736,7 +3739,7 @@ song_id,name,difficulty,unofficial_diff
 30016-7-0,"Programmed Genom",ANOTHER,10.7
 30017-5-0,"Rewind Time",HYPER,7.0
 30017-7-0,"Rewind Time",ANOTHER,10.2
-30018-5-0,"Ruler or Loser",HYPER,8.5
+30018-5-0,"Ruler or Loser",HYPER,8.0
 30018-7-0,"Ruler or Loser",ANOTHER,11.4
 30019-5-0,Seraph,HYPER,9.0
 30019-7-0,Seraph,ANOTHER,11.2
@@ -3790,7 +3793,7 @@ song_id,name,difficulty,unofficial_diff
 30043-7-0,"輪廻の鴉",ANOTHER,11.2
 30044-5-0,"[ ]DENTITY",HYPER,9.6
 30044-7-0,"[ ]DENTITY",ANOTHER,12.5
-30045-5-0,VOLAQUAS,HYPER,10.2
+30045-5-0,VOLAQUAS,HYPER,10.0
 30045-7-0,VOLAQUAS,ANOTHER,12.4
 30046-5-0,<<ORDERBREAKER>>,HYPER,7.5
 30046-7-0,<<ORDERBREAKER>>,ANOTHER,11.2
@@ -3952,7 +3955,7 @@ song_id,name,difficulty,unofficial_diff
 31016-7-0,Mukade,ANOTHER,11.8
 31017-5-0,"My Sweet Bird?",HYPER,7.5
 31017-7-0,"My Sweet Bird?",ANOTHER,9.0
-31018-5-0,Shapeshifter,HYPER,9.0
+31018-5-0,Shapeshifter,HYPER,8.5
 31018-7-0,Shapeshifter,ANOTHER,11.6
 31019-5-0,"SOLAR ECLIPSE",HYPER,10.5
 31019-7-0,"SOLAR ECLIPSE",ANOTHER,12.4
@@ -4014,20 +4017,20 @@ song_id,name,difficulty,unofficial_diff
 31047-7-0,"Red Determination",ANOTHER,11.4
 31048-5-0,Sirius,HYPER,8.5
 31048-7-0,Sirius,ANOTHER,12.0
-31049-5-0,"終焔のClaudia",HYPER,10.0
+31049-5-0,"終焔のClaudia",HYPER,10.2
 31049-7-0,"終焔のClaudia",ANOTHER,12.2
-31050-5-0,"灼熱Beach Side Bunny (かめりあ's ""Summertime D'n'B"" Remix)",HYPER,10.0
+31050-5-0,"灼熱Beach Side Bunny (かめりあ's ""Summertime D'n'B"" Remix)",HYPER,9.6
 31050-7-0,"灼熱Beach Side Bunny (かめりあ's ""Summertime D'n'B"" Remix)",ANOTHER,12.2
 31051-5-0,"可愛くてごめん",HYPER,7.0
 31051-7-0,"可愛くてごめん",ANOTHER,9.0
 31052-5-0,"デビルじゃないもん",HYPER,8.0
 31052-7-0,"デビルじゃないもん",ANOTHER,10.0
-31053-5-0,"フォニイ",HYPER,9.0
+31053-5-0,"フォニイ",HYPER,8.5
 31053-7-0,"フォニイ",ANOTHER,11.4
 31054-5-0,"Psychedelic Intelligence",HYPER,8.5
 31054-7-0,"Psychedelic Intelligence",ANOTHER,11.2
 31055-5-0,"ZEROIN ON THE LIGHT",HYPER,8.0
-31055-7-0,"ZEROIN ON THE LIGHT",ANOTHER,10.2
+31055-7-0,"ZEROIN ON THE LIGHT",ANOTHER,10.5
 31056-5-0,INHERITANCE,HYPER,9.0
 31056-7-0,INHERITANCE,ANOTHER,11.0
 31057-5-0,"winkle 2 winkle",HYPER,9.0
@@ -4040,24 +4043,24 @@ song_id,name,difficulty,unofficial_diff
 31060-7-0,"めうめうぺったんたん！！ (ZAQUVA Remix)",ANOTHER,11.0
 31061-5-0,"ポラリスノウタ",HYPER,7.5
 31061-7-0,"ポラリスノウタ",ANOTHER,10.0
-31062-5-0,"電子になりたい",HYPER,8.0
-31062-7-0,"電子になりたい",ANOTHER,10.0
+31062-5-0,"電子になりたい",HYPER,7.5
+31062-7-0,"電子になりたい",ANOTHER,9.6
 31063-5-0,"Too Late Snow",HYPER,7.0
 31063-7-0,"Too Late Snow",ANOTHER,9.0
 31064-5-0,"out of disk space",HYPER,9.0
 31064-7-0,"out of disk space",ANOTHER,11.0
 31065-5-0,"GLORIOUS HAMMER",HYPER,9.0
 31065-7-0,"GLORIOUS HAMMER",ANOTHER,11.8
-31066-5-0,"MAXIMUM CHEAT GIRL",HYPER,10.0
+31066-5-0,"MAXIMUM CHEAT GIRL",HYPER,10.2
 31066-7-0,"MAXIMUM CHEAT GIRL",ANOTHER,12.3
-31067-5-0,"Glitch N Ride",HYPER,10.0
+31067-5-0,"Glitch N Ride",HYPER,10.2
 31067-7-0,"Glitch N Ride",ANOTHER,12.3
 31068-5-0,"Monkey Business",HYPER,8.0
 31068-7-0,"Monkey Business",ANOTHER,11.0
 31069-5-0,Xb10r,HYPER,10.0
 31069-7-0,Xb10r,ANOTHER,12.0
 31070-5-0,"Ambivalent Vermilia",HYPER,10.0
-31070-7-0,"Ambivalent Vermilia",ANOTHER,12.0
+31070-7-0,"Ambivalent Vermilia",ANOTHER,12.5
 54001-5-0,"ErAseRmoToR maXimUM",HYPER,10.0
 54001-5-1,eRAseRmOToRpHAntOM,HYPER,10.2
 54001-7-0,eRAseRmOToRpHAntOM,ANOTHER,12.2
