@@ -21,4 +21,5 @@ class UnofficialDifficulty(scrapy.Item):
     song_id = scrapy.Field()
     name = scrapy.Field()
     difficulty = scrapy.Field()
+    level = scrapy.Field()
     unofficial_diff = scrapy.Field()

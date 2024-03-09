@@ -37,6 +37,7 @@ class DifficultyScraperPipeline:
                 song_id TEXT PRIMARY KEY, \
                 name TEXT NOT NULL, \
                 difficulty TEXT NOT NULL, \
+                level INT NOT NULL, \
                 unofficial_diff REAL NOT NULL \
             );')
 
@@ -75,11 +76,12 @@ class DifficultyScraperPipeline:
         db = self.get_database()
         db.execute(
             'REPLACE INTO unofficial_difficulty( \
-                song_id, name, difficulty, unofficial_diff \
-            ) VALUES (?, ?, ?, ?)', (
+                song_id, name, difficulty, level, unofficial_diff \
+            ) VALUES (?, ?, ?, ?, ?)', (
                 item['song_id'],
                 item['name'],
                 item['difficulty'],
+                item['level'],
                 item['unofficial_diff']
             )
         )
