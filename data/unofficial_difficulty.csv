@@ -1433,6 +1433,7 @@ song_id,name,difficulty,level,unofficial_diff
 19032-7-0,"Snow Goose",ANOTHER,11,11.6
 19033-5-0,"Star Trail",HYPER,7,7.0
 19033-7-0,"Star Trail",ANOTHER,10,11.0
+19033-9-0,"Star Trail",LEGGENDARIA,11,11.8
 19034-5-0,Thunderbolt,HYPER,9,8.5
 19034-7-0,Thunderbolt,ANOTHER,11,11.4
 19035-5-0,Voxane,HYPER,7,7.0
@@ -1852,7 +1853,7 @@ song_id,name,difficulty,level,unofficial_diff
 21079-7-0,"バンブーソード・ガール",ANOTHER,12,12.3
 21080-5-0,Idola,HYPER,10,10.2
 21080-7-0,Idola,ANOTHER,12,12.4
-21081-5-0,"SCHWARZSCHILD FIELD",HYPER,9,9.0
+21081-5-0,"SCHWARZSCHILD FIELD",HYPER,9,8.0
 21081-7-0,"SCHWARZSCHILD FIELD",ANOTHER,11,11.2
 21082-5-0,"KAISER PHOENIX",HYPER,10,11.0
 21082-7-0,"KAISER PHOENIX",ANOTHER,11,11.8
@@ -1932,7 +1933,7 @@ song_id,name,difficulty,level,unofficial_diff
 22032-7-0,"紅牡丹",ANOTHER,11,10.7
 22033-5-0,"もっと！モット！ときめき feat. 松下",HYPER,9,9.0
 22033-7-0,"もっと！モット！ときめき feat. 松下",ANOTHER,11,10.5
-22034-5-0,#The_Relentless,HYPER,9,9.0
+22034-5-0,#The_Relentless,HYPER,9,8.5
 22034-7-0,#The_Relentless,ANOTHER,11,11.6
 22035-7-0,"chrono diver -fragment-",ANOTHER,9,9.0
 22035-9-0,"chrono diver -fragment-",LEGGENDARIA,10,10.0
@@ -2056,7 +2057,7 @@ song_id,name,difficulty,level,unofficial_diff
 23004-7-0,"Devil's Gear",ANOTHER,12,12.2
 23005-5-0,"DIAMOND CROSSING",HYPER,10,10.0
 23005-7-0,"DIAMOND CROSSING",ANOTHER,12,12.5
-23006-5-0,"do the thing feat. Kanae Asaba",HYPER,8,8.5
+23006-5-0,"do the thing feat. Kanae Asaba",HYPER,8,8.0
 23006-7-0,"do the thing feat. Kanae Asaba",ANOTHER,10,10.5
 23007-5-0,"Donkey Donk",HYPER,9,9.3
 23007-7-0,"Donkey Donk",ANOTHER,11,11.6
@@ -2079,7 +2080,7 @@ song_id,name,difficulty,level,unofficial_diff
 23016-7-0,"Muzik LoverZ",ANOTHER,10,10.0
 23017-5-0,NANAIRO,HYPER,9,9.0
 23017-7-0,NANAIRO,ANOTHER,10,11.0
-23018-5-0,Nowhere,HYPER,9,9.0
+23018-5-0,Nowhere,HYPER,9,8.5
 23018-7-0,Nowhere,ANOTHER,11,11.0
 23019-5-0,refrain,HYPER,10,10.0
 23019-7-0,refrain,ANOTHER,12,12.4
@@ -2120,7 +2121,7 @@ song_id,name,difficulty,level,unofficial_diff
 23036-7-0,"太陽SUNSUNボンジュールアバンチュール",ANOTHER,11,11.0
 23037-5-0,"追想快晴テーマパーク",HYPER,10,10.0
 23037-7-0,"追想快晴テーマパーク",ANOTHER,11,11.6
-23038-7-0,"星屑ディスタンシア",ANOTHER,10,10.2
+23038-7-0,"星屑ディスタンシア",ANOTHER,10,10.0
 23039-5-0,"めいさいアイドル☆あいむちゃん♪",HYPER,10,10.2
 23039-7-0,"めいさいアイドル☆あいむちゃん♪",ANOTHER,12,12.4
 23040-5-0,"Central Station",HYPER,8,8.0
@@ -2182,6 +2183,7 @@ song_id,name,difficulty,level,unofficial_diff
 23067-7-0,"明鏡止水",ANOTHER,11,11.2
 23068-5-0,"紫陽花 -AZISAI-",HYPER,10,10.2
 23068-7-0,"紫陽花 -AZISAI-",ANOTHER,12,11.8
+23068-9-0,"紫陽花 -AZISAI-",LEGGENDARIA,12,12.5
 23069-5-0,"M4K3 1T B0UNC3",HYPER,10,10.0
 23069-7-0,"M4K3 1T B0UNC3",ANOTHER,12,12.4
 23070-5-0,Outbreak,HYPER,9,8.0
@@ -2523,7 +2525,7 @@ song_id,name,difficulty,level,unofficial_diff
 25061-7-0,"東京神話",ANOTHER,12,12.4
 25062-5-0,"NITROUS CANNON",HYPER,10,9.6
 25062-7-0,"NITROUS CANNON",ANOTHER,12,12.3
-25063-5-0,"パラドキシカル・タイムリープトライアル(Short.Ver)",HYPER,9,9.0
+25063-5-0,"パラドキシカル・タイムリープトライアル(Short.Ver)",HYPER,9,9.3
 25063-7-0,"パラドキシカル・タイムリープトライアル(Short.Ver)",ANOTHER,11,11.4
 25064-5-0,"Around the Future",HYPER,9,9.0
 25064-7-0,"Around the Future",ANOTHER,11,11.4
@@ -2562,6 +2564,7 @@ song_id,name,difficulty,level,unofficial_diff
 25080-7-0,ANAGMA,ANOTHER,10,10.7
 25081-5-0,"STARLIGHT JUNCTION",HYPER,8,8.0
 25081-7-0,"STARLIGHT JUNCTION",ANOTHER,10,10.0
+25081-9-0,"STARLIGHT JUNCTION",LEGGENDARIA,11,11.4
 25082-5-0,Fervidex,HYPER,9,9.0
 25082-7-0,Fervidex,ANOTHER,11,11.2
 25083-5-0,"バ→ビ→ブ→Bomb!",HYPER,8,8.0
@@ -2724,7 +2727,7 @@ song_id,name,difficulty,level,unofficial_diff
 26070-5-0,"Mächö Mönky",HYPER,10,9.6
 26070-7-0,"Mächö Mönky",ANOTHER,12,12.1
 26071-5-0,"50th Memorial Songs -Beginning Story-",HYPER,8,8.0
-26071-7-0,"50th Memorial Songs -Beginning Story-",ANOTHER,11,11.2
+26071-7-0,"50th Memorial Songs -Beginning Story-",ANOTHER,11,11.4
 26072-5-0,Carmina,HYPER,10,10.7
 26072-7-0,Carmina,ANOTHER,12,12.6
 26073-5-0,"& Intelligence",HYPER,9,9.3
@@ -2811,7 +2814,7 @@ song_id,name,difficulty,level,unofficial_diff
 27008-7-0,EXCITE,ANOTHER,10,10.2
 27009-7-0,"fairy cocktail",ANOTHER,8,8.5
 27010-5-0,"Hold My Hand",HYPER,8,8.0
-27010-7-0,"Hold My Hand",ANOTHER,10,10.0
+27010-7-0,"Hold My Hand",ANOTHER,10,10.2
 27011-5-0,"Hyper Drive feat. ぷにぷに電機",HYPER,7,7.5
 27011-7-0,"Hyper Drive feat. ぷにぷに電機",ANOTHER,9,9.3
 27012-5-0,"Infinity Mirror",HYPER,8,7.5
@@ -3040,7 +3043,7 @@ song_id,name,difficulty,level,unofficial_diff
 28017-5-0,"Mars beach",HYPER,7,7.0
 28017-7-0,"Mars beach",ANOTHER,10,10.2
 28018-5-0,"Midnight Drive",HYPER,8,7.0
-28018-7-0,"Midnight Drive",ANOTHER,10,10.2
+28018-7-0,"Midnight Drive",ANOTHER,10,10.0
 28019-5-0,"Ocean Blue feat. Luschel",HYPER,7,7.0
 28019-7-0,"Ocean Blue feat. Luschel",ANOTHER,10,10.5
 28020-5-0,"of the first magnitude",HYPER,9,9.0
@@ -3142,9 +3145,9 @@ song_id,name,difficulty,level,unofficial_diff
 28067-7-0,"Dawn Saga",ANOTHER,12,12.1
 28068-5-0,"-65℃",HYPER,10,10.0
 28068-7-0,"-65℃",ANOTHER,12,12.5
-28069-5-0,"Neo Heritage",HYPER,9,8.5
+28069-5-0,"Neo Heritage",HYPER,9,8.0
 28069-7-0,"Neo Heritage",ANOTHER,11,11.2
-28070-5-0,"Ritual of Anubis",HYPER,9,9.0
+28070-5-0,"Ritual of Anubis",HYPER,9,8.5
 28070-7-0,"Ritual of Anubis",ANOTHER,11,11.4
 28071-5-0,Scandal,HYPER,9,8.5
 28071-7-0,Scandal,ANOTHER,11,11.6
@@ -3263,6 +3266,7 @@ song_id,name,difficulty,level,unofficial_diff
 29023-7-0,"Skreaming for Salvation",ANOTHER,12,12.2
 29024-5-0,"SOLID WYVERN",HYPER,9,9.0
 29024-7-0,"SOLID WYVERN",ANOTHER,11,11.0
+29024-9-0,"SOLID WYVERN",LEGGENDARIA,12,12.6
 29025-5-0,"Tail Lights",HYPER,9,8.5
 29025-7-0,"Tail Lights",ANOTHER,11,11.6
 29026-5-0,"Triple Cross",HYPER,10,10.2
@@ -3395,7 +3399,7 @@ song_id,name,difficulty,level,unofficial_diff
 29088-5-0,"Divine Heaven",HYPER,9,8.5
 29088-7-0,"Divine Heaven",ANOTHER,11,11.6
 29089-7-0,"VR - Virtual Reality (prod.by Snail's House)",ANOTHER,9,9.0
-29089-9-0,"VR - Virtual Reality (prod.by Snail's House)",LEGGENDARIA,10,10.2
+29089-9-0,"VR - Virtual Reality (prod.by Snail's House)",LEGGENDARIA,10,10.5
 29090-5-0,"あいつら全員同窓会",HYPER,7,7.0
 29090-7-0,"あいつら全員同窓会",ANOTHER,10,10.5
 29091-5-0,"グッバイ宣言",HYPER,8,8.0
@@ -3548,7 +3552,7 @@ song_id,name,difficulty,level,unofficial_diff
 30067-5-0,"恋愛＝精度×認識力",HYPER,10,10.0
 30067-7-0,"恋愛＝精度×認識力",ANOTHER,12,12.3
 30068-5-0,"新時代",HYPER,7,6.0
-30068-7-0,"新時代",ANOTHER,10,10.0
+30068-7-0,"新時代",ANOTHER,10,9.6
 30069-5-0,"神っぽいな",HYPER,8,7.5
 30069-7-0,"神っぽいな",ANOTHER,10,10.5
 30070-5-0,KING,HYPER,9,9.0
@@ -3621,7 +3625,7 @@ song_id,name,difficulty,level,unofficial_diff
 30103-5-0,"VØID",HYPER,10,10.7
 30103-7-0,"VØID",ANOTHER,12,12.4
 30104-5-0,"異心前進♪ぴょんぴょんぴょん",HYPER,8,8.0
-30104-7-0,"異心前進♪ぴょんぴょんぴょん",ANOTHER,10,10.0
+30104-7-0,"異心前進♪ぴょんぴょんぴょん",ANOTHER,10,9.6
 30105-5-0,"mathematical good-bye",HYPER,8,7.0
 30105-7-0,"mathematical good-bye",ANOTHER,10,9.3
 30106-5-0,Stylus,HYPER,10,9.6
@@ -3684,7 +3688,7 @@ song_id,name,difficulty,level,unofficial_diff
 31026-7-0,20XX,ANOTHER,11,11.6
 31027-5-0,"アイドル",HYPER,7,7.0
 31027-7-0,"アイドル",ANOTHER,10,10.2
-31028-5-0,"アタシ完全絶対正義ちゃん！",HYPER,8,8.0
+31028-5-0,"アタシ完全絶対正義ちゃん！",HYPER,8,7.5
 31028-7-0,"アタシ完全絶対正義ちゃん！",ANOTHER,10,9.6
 31029-5-0,"傷つけど、愛してる。",HYPER,8,8.0
 31029-7-0,"傷つけど、愛してる。",ANOTHER,10,10.0
@@ -3702,7 +3706,7 @@ song_id,name,difficulty,level,unofficial_diff
 31036-7-0,"果たせぬ約束 ft. 小林マナ",ANOTHER,11,11.2
 31037-5-0,"摩天楼",HYPER,9,9.3
 31037-7-0,"摩天楼",ANOTHER,12,12.4
-31038-5-0,"夢縁",HYPER,10,10.0
+31038-5-0,"夢縁",HYPER,10,9.6
 31038-7-0,"夢縁",ANOTHER,11,11.4
 31039-5-0,"流桜ノ門",HYPER,8,8.0
 31039-7-0,"流桜ノ門",ANOTHER,10,10.0
@@ -3719,7 +3723,7 @@ song_id,name,difficulty,level,unofficial_diff
 31045-5-0,i-ii,HYPER,9,9.0
 31045-7-0,i-ii,ANOTHER,11,11.6
 31046-5-0,"Get Wicked",HYPER,8,7.5
-31046-7-0,"Get Wicked",ANOTHER,10,10.0
+31046-7-0,"Get Wicked",ANOTHER,10,10.2
 31047-5-0,"Red Determination",HYPER,8,8.5
 31047-7-0,"Red Determination",ANOTHER,11,11.4
 31048-5-0,Sirius,HYPER,9,8.5
@@ -3746,15 +3750,15 @@ song_id,name,difficulty,level,unofficial_diff
 31058-7-0,"Out of Control",ANOTHER,12,12.3
 31059-5-0,"Vermilion Carol",HYPER,10,10.0
 31059-7-0,"Vermilion Carol",ANOTHER,12,12.3
-31060-5-0,"めうめうぺったんたん！！ (ZAQUVA Remix)",HYPER,9,9.0
+31060-5-0,"めうめうぺったんたん！！ (ZAQUVA Remix)",HYPER,9,8.5
 31060-7-0,"めうめうぺったんたん！！ (ZAQUVA Remix)",ANOTHER,11,11.0
 31061-5-0,"ポラリスノウタ",HYPER,8,7.5
-31061-7-0,"ポラリスノウタ",ANOTHER,10,9.6
+31061-7-0,"ポラリスノウタ",ANOTHER,10,9.3
 31062-5-0,"電子になりたい",HYPER,8,7.5
 31062-7-0,"電子になりたい",ANOTHER,10,9.6
 31063-5-0,"Too Late Snow",HYPER,7,7.0
 31063-7-0,"Too Late Snow",ANOTHER,9,9.0
-31064-5-0,"out of disk space",HYPER,9,8.5
+31064-5-0,"out of disk space",HYPER,9,8.0
 31064-7-0,"out of disk space",ANOTHER,11,10.7
 31065-5-0,"GLORIOUS HAMMER",HYPER,9,9.0
 31065-7-0,"GLORIOUS HAMMER",ANOTHER,11,11.8
@@ -3764,11 +3768,11 @@ song_id,name,difficulty,level,unofficial_diff
 31067-7-0,"Glitch N Ride",ANOTHER,12,12.4
 31068-5-0,"Monkey Business",HYPER,8,8.0
 31068-7-0,"Monkey Business",ANOTHER,11,11.6
-31069-5-0,Xb10r,HYPER,10,10.0
+31069-5-0,Xb10r,HYPER,10,10.2
 31069-7-0,Xb10r,ANOTHER,12,12.3
 31070-5-0,"Ambivalent Vermilia",HYPER,10,10.0
 31070-7-0,"Ambivalent Vermilia",ANOTHER,12,12.5
-31071-5-0,"COUNTING SHEEP ft.Kanae Asaba",HYPER,7,7.0
+31071-5-0,"COUNTING SHEEP ft.Kanae Asaba",HYPER,7,7.5
 31071-7-0,"COUNTING SHEEP ft.Kanae Asaba",ANOTHER,10,10.2
 31072-5-0,"雫",HYPER,9,9.3
 31072-7-0,"雫",ANOTHER,11,11.4
@@ -3778,18 +3782,50 @@ song_id,name,difficulty,level,unofficial_diff
 31074-7-0,"Sword Of Vengeance",ANOTHER,12,11.8
 31075-5-0,"Million Dollar",HYPER,10,10.2
 31075-7-0,"Million Dollar",ANOTHER,12,12.4
-31076-5-0,CADENZA,HYPER,10,10.0
+31076-5-0,CADENZA,HYPER,10,10.2
 31076-7-0,CADENZA,ANOTHER,12,12.5
 31077-5-0,"Stereo Beasts",HYPER,10,10.0
 31077-7-0,"Stereo Beasts",ANOTHER,12,12.3
-31080-5-0,"唱",HYPER,7,7.0
+31078-5-0,"Demon March",HYPER,10,10.0
+31078-7-0,"Demon March",ANOTHER,12,12.5
+31079-5-0,"惑星鉄道",HYPER,11,11.6
+31079-7-0,"惑星鉄道",ANOTHER,12,12.6
+31080-5-0,"唱",HYPER,7,6.0
 31080-7-0,"唱",ANOTHER,9,9.3
 31081-5-0,"酔いどれ知らず",HYPER,7,7.0
 31081-7-0,"酔いどれ知らず",ANOTHER,10,10.2
-31082-5-0,"勇者",HYPER,8,8.0
+31082-5-0,"勇者",HYPER,8,8.5
 31082-7-0,"勇者",ANOTHER,11,11.2
-31083-5-0,"マーシャル・マキシマイザー",HYPER,9,9.0
+31083-5-0,"マーシャル・マキシマイザー",HYPER,9,8.0
 31083-7-0,"マーシャル・マキシマイザー",ANOTHER,11,11.2
+31084-5-0,"神様、つれない。",HYPER,7,7.0
+31084-7-0,"神様、つれない。",ANOTHER,10,10.0
+31085-5-0,Amethyst,HYPER,9,9.0
+31085-7-0,Amethyst,ANOTHER,11,11.0
+31086-5-0,"TRIP THE DEEP",HYPER,8,7.5
+31086-7-0,"TRIP THE DEEP",ANOTHER,11,11.8
+31087-5-0,"ACTØ",HYPER,10,10.2
+31087-7-0,"ACTØ",ANOTHER,12,12.0
+31088-5-0,"電腦都市",HYPER,10,10.0
+31088-7-0,"電腦都市",ANOTHER,12,12.3
+31089-5-0,squall,HYPER,9,8.5
+31089-7-0,squall,ANOTHER,11,11.6
+31090-5-0,BLAZING_LAZER,HYPER,9,9.0
+31090-7-0,BLAZING_LAZER,ANOTHER,12,12.3
+31093-5-0,PILGRIM,HYPER,8,8.0
+31093-7-0,PILGRIM,ANOTHER,11,11.0
+31094-5-0,"今宵、ロマンス横丁。",HYPER,10,10.0
+31094-7-0,"今宵、ロマンス横丁。",ANOTHER,12,12.2
+31095-5-0,"NEEDLESS MY LOVE FOR YOU",HYPER,8,8.0
+31095-7-0,"NEEDLESS MY LOVE FOR YOU",ANOTHER,10,10.0
+31096-5-0,CODE:2,HYPER,9,9.0
+31096-7-0,CODE:2,ANOTHER,12,12.0
+31097-5-0,Vulnerability,HYPER,10,10.0
+31097-7-0,Vulnerability,ANOTHER,12,12.5
+31098-5-0,"Seven Times Four",HYPER,9,9.0
+31098-7-0,"Seven Times Four",ANOTHER,12,12.0
+31099-5-0,T.R.O.L.L.,HYPER,9,9.0
+31099-7-0,T.R.O.L.L.,ANOTHER,11,11.0
 54001-5-0,"ErAseRmoToR maXimUM",HYPER,7,10.0
 54001-5-1,eRAseRmOToRpHAntOM,HYPER,10,10.2
 54001-7-0,eRAseRmOToRpHAntOM,ANOTHER,12,12.2
@@ -3911,8 +3947,8 @@ song_id,name,difficulty,level,unofficial_diff
 63017-7-0,"The Hope of Tomorrow [Long]",ANOTHER,11,11.8
 63018-5-0,"VANISHING POINT",HYPER,8,8.5
 63018-7-0,"VANISHING POINT",ANOTHER,10,10.5
-63019-5-0,"WaterCube Pf. (RX-Ver.S.P.L.)",HYPER,7,7.5
-63019-7-0,"WaterCube Pf. (RX-Ver.S.P.L.)",ANOTHER,10,10.5
+63019-5-0,"WaterCube Pf.(RX-Ver.S.P.L.)",HYPER,7,7.5
+63019-7-0,"WaterCube Pf.(RX-Ver.S.P.L.)",ANOTHER,10,10.5
 64001-5-0,"Beginning of life (The Ground Pulse Mix)",HYPER,10,10.5
 64001-7-0,"Beginning of life (The Ground Pulse Mix)",ANOTHER,12,12.1
 64002-5-0,"Chain of pain",HYPER,9,9.6
