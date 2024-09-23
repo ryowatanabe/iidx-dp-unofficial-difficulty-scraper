@@ -232,6 +232,7 @@ song_id,name,difficulty,level,unofficial_diff
 07039-7-0,traces,ANOTHER,10,10.2
 07040-5-0,ZERO-ONE,HYPER,8,9.0
 07040-7-0,ZERO-ONE,ANOTHER,10,10.7
+07040-9-0,ZERO-ONE,LEGGENDARIA,11,11.0
 07041-5-0,"革命",HYPER,12,12.1
 07041-7-0,"革命",ANOTHER,12,12.3
 08001-5-0,abstract,HYPER,9,9.6
@@ -1192,7 +1193,7 @@ song_id,name,difficulty,level,unofficial_diff
 17041-7-0,"コスモス",ANOTHER,9,9.3
 17042-5-0,"たからもの",HYPER,7,7.5
 17042-7-0,"たからもの",ANOTHER,10,10.5
-17042-9-0,"たからもの",LEGGENDARIA,11,11.0
+17042-9-0,"たからもの",LEGGENDARIA,11,11.4
 17043-7-0,"バビロニア",ANOTHER,8,9.0
 17044-7-0,"フェティッシュペイパー ～脇の汗回転ガール～",ANOTHER,10,10.2
 17045-5-0,"未来のプリズム",HYPER,8,7.5
@@ -1861,6 +1862,7 @@ song_id,name,difficulty,level,unofficial_diff
 21082-9-0,"KAISER PHOENIX",LEGGENDARIA,12,12.7
 21083-5-0,"海神",HYPER,10,10.2
 21083-7-0,"海神",ANOTHER,12,12.3
+21083-9-0,"海神",LEGGENDARIA,12,12.0
 21084-5-0,Cleopatrysm,HYPER,9,7.5
 21084-7-0,Cleopatrysm,ANOTHER,11,11.6
 21085-5-0,"御千手メディテーション",HYPER,9,9.0
@@ -2512,6 +2514,7 @@ song_id,name,difficulty,level,unofficial_diff
 25054-7-0,"Expanded !!",ANOTHER,10,10.2
 25055-5-0,"DEATH†ZIGOQ〜怒りの高速爆走野郎〜",HYPER,10,10.5
 25055-7-0,"DEATH†ZIGOQ〜怒りの高速爆走野郎〜",ANOTHER,12,12.4
+25055-9-0,"DEATH†ZIGOQ〜怒りの高速爆走野郎〜",LEGGENDARIA,12,12.0
 25056-5-0,Persephone,HYPER,10,10.0
 25056-7-0,Persephone,ANOTHER,12,12.0
 25057-5-0,"バスルーム ロマンス",HYPER,8,8.0
