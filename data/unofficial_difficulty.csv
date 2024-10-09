@@ -232,7 +232,7 @@ song_id,name,difficulty,level,unofficial_diff
 07039-7-0,traces,ANOTHER,10,10.2
 07040-5-0,ZERO-ONE,HYPER,8,9.0
 07040-7-0,ZERO-ONE,ANOTHER,10,10.7
-07040-9-0,ZERO-ONE,LEGGENDARIA,11,11.0
+07040-9-0,ZERO-ONE,LEGGENDARIA,11,12.0
 07041-5-0,"革命",HYPER,12,12.1
 07041-7-0,"革命",ANOTHER,12,12.3
 08001-5-0,abstract,HYPER,9,9.6
@@ -1095,7 +1095,7 @@ song_id,name,difficulty,level,unofficial_diff
 16045-7-0,"Marie Antoinette",ANOTHER,11,12.0
 16045-9-0,"Marie Antoinette",LEGGENDARIA,11,12.0
 16046-5-0,"卑弥呼",HYPER,11,11.6
-16046-7-0,"卑弥呼",ANOTHER,12,12.7
+16046-7-0,"卑弥呼",ANOTHER,12,12.6
 16046-9-0,"卑弥呼",LEGGENDARIA,12,12.6
 16047-5-0,"You'll say ""Now!""",HYPER,10,10.0
 16047-7-0,"You'll say ""Now!""",ANOTHER,11,11.8
@@ -1862,7 +1862,7 @@ song_id,name,difficulty,level,unofficial_diff
 21082-9-0,"KAISER PHOENIX",LEGGENDARIA,12,12.7
 21083-5-0,"海神",HYPER,10,10.2
 21083-7-0,"海神",ANOTHER,12,12.3
-21083-9-0,"海神",LEGGENDARIA,12,12.0
+21083-9-0,"海神",LEGGENDARIA,12,12.4
 21084-5-0,Cleopatrysm,HYPER,9,7.5
 21084-7-0,Cleopatrysm,ANOTHER,11,11.6
 21085-5-0,"御千手メディテーション",HYPER,9,9.0
@@ -2514,7 +2514,7 @@ song_id,name,difficulty,level,unofficial_diff
 25054-7-0,"Expanded !!",ANOTHER,10,10.2
 25055-5-0,"DEATH†ZIGOQ〜怒りの高速爆走野郎〜",HYPER,10,10.5
 25055-7-0,"DEATH†ZIGOQ〜怒りの高速爆走野郎〜",ANOTHER,12,12.4
-25055-9-0,"DEATH†ZIGOQ〜怒りの高速爆走野郎〜",LEGGENDARIA,12,12.0
+25055-9-0,"DEATH†ZIGOQ〜怒りの高速爆走野郎〜",LEGGENDARIA,12,12.7
 25056-5-0,Persephone,HYPER,10,10.0
 25056-7-0,Persephone,ANOTHER,12,12.0
 25057-5-0,"バスルーム ロマンス",HYPER,8,8.0
@@ -3663,7 +3663,7 @@ song_id,name,difficulty,level,unofficial_diff
 31011-7-0,"Ghost Pulse",ANOTHER,12,12.2
 31012-5-0,GloriosA,HYPER,9,9.3
 31012-7-0,GloriosA,ANOTHER,11,11.8
-31013-5-0,Iris,HYPER,7,7.0
+31013-5-0,Iris,HYPER,7,7.5
 31013-7-0,Iris,ANOTHER,10,9.6
 31014-5-0,Jumper,HYPER,7,7.0
 31014-7-0,Jumper,ANOTHER,10,10.2
@@ -3811,7 +3811,7 @@ song_id,name,difficulty,level,unofficial_diff
 31086-7-0,"TRIP THE DEEP",ANOTHER,11,11.8
 31087-5-0,"ACTØ",HYPER,10,10.2
 31087-7-0,"ACTØ",ANOTHER,12,12.0
-31088-5-0,"電腦都市",HYPER,10,10.2
+31088-5-0,"電腦都市",HYPER,10,10.5
 31088-7-0,"電腦都市",ANOTHER,12,12.3
 31089-5-0,squall,HYPER,9,8.5
 31089-7-0,squall,ANOTHER,11,11.6
@@ -3820,7 +3820,7 @@ song_id,name,difficulty,level,unofficial_diff
 31091-5-0,"The Last Apocalypse",HYPER,10,10.0
 31091-7-0,"The Last Apocalypse",ANOTHER,12,12.4
 31092-5-0,"Level 5",HYPER,10,10.0
-31092-7-0,"Level 5",ANOTHER,12,12.4
+31092-7-0,"Level 5",ANOTHER,12,12.5
 31093-5-0,PILGRIM,HYPER,8,8.0
 31093-7-0,PILGRIM,ANOTHER,11,11.0
 31094-5-0,"今宵、ロマンス横丁。",HYPER,10,10.2
@@ -3842,7 +3842,7 @@ song_id,name,difficulty,level,unofficial_diff
 31102-7-0,Riff//rain,ANOTHER,9,9.0
 31103-5-0,"愛包ダンスホール",HYPER,7,7.0
 31103-7-0,"愛包ダンスホール",ANOTHER,10,10.0
-31104-5-0,"ラビットホール",HYPER,9,9.0
+31104-5-0,"ラビットホール",HYPER,9,9.3
 31104-7-0,"ラビットホール",ANOTHER,11,10.7
 31105-5-0,"The Onlyonez",HYPER,9,9.0
 31105-7-0,"The Onlyonez",ANOTHER,12,12.0
@@ -3858,7 +3858,7 @@ song_id,name,difficulty,level,unofficial_diff
 31110-7-0,Resonant,ANOTHER,12,12.3
 31111-5-0,Akatsuki,HYPER,7,7.0
 31111-7-0,Akatsuki,ANOTHER,10,10.0
-31112-7-0,"So What",ANOTHER,9,9.0
+31112-7-0,"So What",ANOTHER,9,9.3
 54001-5-0,"ErAseRmoToR maXimUM",HYPER,7,10.0
 54001-5-1,eRAseRmOToRpHAntOM,HYPER,10,10.2
 54001-7-0,eRAseRmOToRpHAntOM,ANOTHER,12,12.2
@@ -3980,7 +3980,7 @@ song_id,name,difficulty,level,unofficial_diff
 63017-7-0,"The Hope of Tomorrow [Long]",ANOTHER,11,11.8
 63018-5-0,"VANISHING POINT",HYPER,8,8.5
 63018-7-0,"VANISHING POINT",ANOTHER,10,10.5
-63019-5-0,"WaterCube Pf.(RX-Ver.S.P.L.)",HYPER,7,7.5
+63019-5-0,"WaterCube Pf.(RX-Ver.S.P.L.)",HYPER,7,8.0
 63019-7-0,"WaterCube Pf.(RX-Ver.S.P.L.)",ANOTHER,10,10.5
 64001-5-0,"Beginning of life (The Ground Pulse Mix)",HYPER,10,10.5
 64001-7-0,"Beginning of life (The Ground Pulse Mix)",ANOTHER,12,12.1
