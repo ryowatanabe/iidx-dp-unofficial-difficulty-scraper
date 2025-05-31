@@ -1388,7 +1388,7 @@ song_id,name,difficulty,level,unofficial_diff
 19004-7-0,"BLACK.by X-Cross Fade",ANOTHER,12,12.2
 19005-5-0,CALL,HYPER,8,8.0
 19005-7-0,CALL,ANOTHER,8,8.5
-19005-9-0,CALL,LEGGENDARIA,11,11.0
+19005-9-0,CALL,LEGGENDARIA,11,11.8
 19006-5-0,"Change the World",HYPER,9,8.0
 19006-7-0,"Change the World",ANOTHER,11,11.2
 19007-5-0,"DON'T WAKE ME FROM THE DREAM (2010 Summer Edition)",HYPER,7,7.0
@@ -2914,7 +2914,7 @@ song_id,name,difficulty,level,unofficial_diff
 27050-7-0,"Inferno of Fomalhaut",ANOTHER,12,12.5
 27051-5-0,"Bow shock!!",HYPER,9,9.0
 27051-7-0,"Bow shock!!",ANOTHER,11,11.6
-27051-9-0,"Bow shock!!",LEGGENDARIA,12,12.0
+27051-9-0,"Bow shock!!",LEGGENDARIA,12,12.4
 27052-5-0,"Matt Silver",HYPER,9,9.0
 27052-7-0,"Matt Silver",ANOTHER,12,12.3
 27053-5-0,"Horizons of Promise",HYPER,7,7.0
@@ -4025,6 +4025,22 @@ song_id,name,difficulty,level,unofficial_diff
 32074-7-0,"きゅうくらりん",ANOTHER,10,10.0
 32075-5-0,"進捗ダメダメです",HYPER,8,8.0
 32075-7-0,"進捗ダメダメです",ANOTHER,10,10.0
+32076-5-0,MARLIN,HYPER,10,10.0
+32076-7-0,MARLIN,ANOTHER,12,12.4
+32077-5-0,"Mighty Cutie",HYPER,8,8.0
+32077-7-0,"Mighty Cutie",ANOTHER,10,10.7
+32078-5-0,"ＰＡＳＴＥＬＩＳＭ",HYPER,8,8.0
+32078-7-0,"ＰＡＳＴＥＬＩＳＭ",ANOTHER,10,10.0
+32079-5-0,"Stargazing Trip ～星 探す旅～ ft. 小林マナ",HYPER,9,9.0
+32079-7-0,"Stargazing Trip ～星 探す旅～ ft. 小林マナ",ANOTHER,11,11.0
+32080-5-0,"スキッテイエェエエェ!!!!",HYPER,10,10.0
+32080-7-0,"スキッテイエェエエェ!!!!",ANOTHER,12,12.6
+32081-5-0,"朱と碧のランページ",HYPER,8,8.0
+32081-7-0,"朱と碧のランページ",ANOTHER,10,10.0
+32082-5-0,"Plea Per Phase",HYPER,9,9.0
+32082-7-0,"Plea Per Phase",ANOTHER,11,11.0
+32083-5-0,"Cross Fire",HYPER,10,10.0
+32083-7-0,"Cross Fire",ANOTHER,12,12.0
 54001-5-0,"ErAseRmoToR maXimUM",HYPER,7,10.0
 54001-5-1,eRAseRmOToRpHAntOM,HYPER,10,10.2
 54001-7-0,eRAseRmOToRpHAntOM,ANOTHER,12,12.2
