@@ -2705,7 +2705,7 @@ song_id,name,difficulty,level,unofficial_diff
 26050-7-0,"金野火織の金色提言",ANOTHER,12,12.3
 26051-5-0,SIGMA,HYPER,9,9.0
 26051-7-0,SIGMA,ANOTHER,12,12.1
-26052-5-0,"爆ゼニ☆がってんワーカー",HYPER,9,9.0
+26052-5-0,"爆ゼニ☆がってんワーカー",HYPER,9,9.3
 26052-7-0,"爆ゼニ☆がってんワーカー",ANOTHER,11,11.2
 26053-5-0,"LOST TECHNOLOGIE",HYPER,9,9.0
 26053-7-0,"LOST TECHNOLOGIE",ANOTHER,12,12.4
@@ -2753,7 +2753,7 @@ song_id,name,difficulty,level,unofficial_diff
 26074-7-0,"50th Memorial Songs -二人の時 ～under the cherry blossoms～-",ANOTHER,10,10.5
 26075-5-0,"50th Memorial Songs -Flagship medley-",HYPER,8,8.5
 26075-7-0,"50th Memorial Songs -Flagship medley-",ANOTHER,10,11.0
-26076-5-0,"50th Memorial Songs -The BEMANI History-",HYPER,9,8.5
+26076-5-0,"50th Memorial Songs -The BEMANI History-",HYPER,9,9.0
 26076-7-0,"50th Memorial Songs -The BEMANI History-",ANOTHER,11,11.6
 26077-5-0,"Lift Us High",HYPER,8,7.5
 26077-7-0,"Lift Us High",ANOTHER,10,10.0
@@ -3421,7 +3421,7 @@ song_id,name,difficulty,level,unofficial_diff
 29087-7-0,"ピアノ独奏無言歌 ""灰燼""",ANOTHER,12,12.7
 29088-5-0,"Divine Heaven",HYPER,9,8.5
 29088-7-0,"Divine Heaven",ANOTHER,11,11.6
-29089-7-0,"VR - Virtual Reality (prod.by Snail's House)",ANOTHER,9,9.0
+29089-7-0,"VR - Virtual Reality (prod.by Snail's House)",ANOTHER,9,9.3
 29089-9-0,"VR - Virtual Reality (prod.by Snail's House)",LEGGENDARIA,10,10.5
 29090-5-0,"あいつら全員同窓会",HYPER,7,7.0
 29090-7-0,"あいつら全員同窓会",ANOTHER,10,10.5
@@ -3848,7 +3848,7 @@ song_id,name,difficulty,level,unofficial_diff
 31092-5-0,"Level 5",HYPER,10,10.5
 31092-7-0,"Level 5",ANOTHER,12,12.5
 31093-5-0,PILGRIM,HYPER,8,8.0
-31093-7-0,PILGRIM,ANOTHER,11,11.0
+31093-7-0,PILGRIM,ANOTHER,11,11.2
 31094-5-0,"今宵、ロマンス横丁。",HYPER,10,10.2
 31094-7-0,"今宵、ロマンス横丁。",ANOTHER,12,12.2
 31095-5-0,"NEEDLESS MY LOVE FOR YOU",HYPER,8,8.0
@@ -3877,7 +3877,7 @@ song_id,name,difficulty,level,unofficial_diff
 31107-5-0,"閉塞的フレーション",HYPER,8,7.5
 31107-7-0,"閉塞的フレーション",ANOTHER,10,10.0
 31108-5-0,"See You Again",HYPER,9,9.0
-31108-7-0,"See You Again",ANOTHER,11,11.0
+31108-7-0,"See You Again",ANOTHER,11,11.2
 31109-5-0,"Cult Invitation",HYPER,10,9.6
 31109-7-0,"Cult Invitation",ANOTHER,12,12.3
 31110-5-0,Resonant,HYPER,10,10.2
@@ -3891,7 +3891,7 @@ song_id,name,difficulty,level,unofficial_diff
 32002-7-0,Bling-Bang-Bang-Born,ANOTHER,10,10.0
 32003-5-0,"Bring The Fire",HYPER,9,9.0
 32003-7-0,"Bring The Fire",ANOTHER,12,12.2
-32004-5-0,"CHAOTIC SUNBIRD",HYPER,9,9.0
+32004-5-0,"CHAOTIC SUNBIRD",HYPER,9,8.5
 32004-7-0,"CHAOTIC SUNBIRD",ANOTHER,11,11.2
 32005-5-0,"Chasing After YOU ～夢の欠片～ ft. 小林マナ",HYPER,7,7.5
 32005-7-0,"Chasing After YOU ～夢の欠片～ ft. 小林マナ",ANOTHER,10,10.2
@@ -3901,7 +3901,7 @@ song_id,name,difficulty,level,unofficial_diff
 32007-7-0,"Digital Radiance",ANOTHER,9,9.0
 32008-5-0,Dreamship,HYPER,7,6.5
 32008-7-0,Dreamship,ANOTHER,9,9.3
-32009-5-0,"Drop Syndicate",HYPER,9,9.0
+32009-5-0,"Drop Syndicate",HYPER,9,9.3
 32009-7-0,"Drop Syndicate",ANOTHER,12,12.4
 32010-5-0,Eleanor,HYPER,7,7.5
 32010-7-0,Eleanor,ANOTHER,10,10.2
@@ -3977,7 +3977,7 @@ song_id,name,difficulty,level,unofficial_diff
 32045-7-0,"EX-MASSIVE FIGHTER",ANOTHER,12,12.3
 32046-5-0,Arcanos,HYPER,7,6.5
 32046-7-0,Arcanos,ANOTHER,10,10.0
-32047-5-0,"Bang-Boo Bumble",HYPER,9,9.0
+32047-5-0,"Bang-Boo Bumble",HYPER,9,8.5
 32047-7-0,"Bang-Boo Bumble",ANOTHER,11,11.2
 32048-5-0,"DIVINE JUDGEMENT",HYPER,10,10.2
 32048-7-0,"DIVINE JUDGEMENT",ANOTHER,12,12.3
@@ -4006,7 +4006,7 @@ song_id,name,difficulty,level,unofficial_diff
 32060-5-0,"ハオ",HYPER,8,8.0
 32060-7-0,"ハオ",ANOTHER,11,11.4
 32061-5-0,"ロマンシングエスケープ",HYPER,7,7.0
-32061-7-0,"ロマンシングエスケープ",ANOTHER,9,9.6
+32061-7-0,"ロマンシングエスケープ",ANOTHER,9,9.3
 32062-5-0,"ハルイロメロディー",HYPER,7,7.0
 32062-7-0,"ハルイロメロディー",ANOTHER,10,10.0
 32063-5-0,Constellation,HYPER,9,9.0
@@ -4041,24 +4041,28 @@ song_id,name,difficulty,level,unofficial_diff
 32077-7-0,"Mighty Cutie",ANOTHER,10,10.7
 32078-5-0,"ＰＡＳＴＥＬＩＳＭ",HYPER,8,8.0
 32078-7-0,"ＰＡＳＴＥＬＩＳＭ",ANOTHER,10,10.0
-32079-5-0,"Stargazing Trip ～星 探す旅～ ft. 小林マナ",HYPER,9,9.0
-32079-7-0,"Stargazing Trip ～星 探す旅～ ft. 小林マナ",ANOTHER,11,10.7
+32079-5-0,"Stargazing Trip ～星 探す旅～ ft. 小林マナ",HYPER,9,8.5
+32079-7-0,"Stargazing Trip ～星 探す旅～ ft. 小林マナ",ANOTHER,11,11.0
 32080-5-0,"スキッテイエェエエェ!!!!",HYPER,10,10.0
 32080-7-0,"スキッテイエェエエェ!!!!",ANOTHER,12,12.5
 32081-5-0,"朱と碧のランページ",HYPER,8,8.0
 32081-7-0,"朱と碧のランページ",ANOTHER,10,10.5
 32082-5-0,"Plea Per Phase",HYPER,9,9.0
 32082-7-0,"Plea Per Phase",ANOTHER,11,11.4
-32083-5-0,"Cross Fire",HYPER,10,10.0
+32083-5-0,"Cross Fire",HYPER,10,10.2
 32083-7-0,"Cross Fire",ANOTHER,12,12.5
+32084-5-0,Aqvion,HYPER,9,9.0
+32084-7-0,Aqvion,ANOTHER,12,12.0
+32085-5-0,"Skratch Education Lv-1",HYPER,10,10.0
+32085-7-0,"Skratch Education Lv-1",ANOTHER,12,12.0
 32086-5-0,"エクスプロウル",HYPER,8,8.0
-32086-7-0,"エクスプロウル",ANOTHER,10,10.0
+32086-7-0,"エクスプロウル",ANOTHER,10,10.2
 32087-5-0,"覚悟せよ！エンタンメ～ン ～より身の切り売り自暴自棄版～",HYPER,9,9.0
 32087-7-0,"覚悟せよ！エンタンメ～ン ～より身の切り売り自暴自棄版～",ANOTHER,11,11.4
 32088-5-0,"ギャ・ギャ・ギャ・ギャラクシー！",HYPER,8,8.0
 32088-7-0,"ギャ・ギャ・ギャ・ギャラクシー！",ANOTHER,10,10.0
 32089-5-0,Plazma,HYPER,8,8.0
-32089-7-0,Plazma,ANOTHER,10,10.0
+32089-7-0,Plazma,ANOTHER,10,10.2
 32090-5-0,"キスキツネ",HYPER,7,7.0
 32090-7-0,"キスキツネ",ANOTHER,10,10.5
 32091-5-0,"Galaxy Collapse",HYPER,7,7.0
@@ -4066,11 +4070,21 @@ song_id,name,difficulty,level,unofficial_diff
 32092-5-0,"Good Looking",HYPER,8,8.0
 32092-7-0,"Good Looking",ANOTHER,10,10.0
 32093-5-0,everlastingeuphoria:,HYPER,9,9.0
-32093-7-0,everlastingeuphoria:,ANOTHER,11,11.0
+32093-7-0,everlastingeuphoria:,ANOTHER,11,11.4
 32094-5-0,"アラビアン ハイパー ナイト",HYPER,10,10.0
-32094-7-0,"アラビアン ハイパー ナイト",ANOTHER,12,12.0
+32094-7-0,"アラビアン ハイパー ナイト",ANOTHER,12,12.5
 32095-5-0,"Uaigh Gealaí",HYPER,10,10.0
-32095-7-0,"Uaigh Gealaí",ANOTHER,12,12.0
+32095-7-0,"Uaigh Gealaí",ANOTHER,12,12.6
+32096-5-0,"Butterfly Twist",HYPER,8,8.0
+32096-7-0,"Butterfly Twist",ANOTHER,11,11.0
+32097-5-0,"XHRONOXAPSULΞ",HYPER,10,10.0
+32097-7-0,"XHRONOXAPSULΞ",ANOTHER,12,12.6
+32098-5-0,"IN BETWEEN",HYPER,9,9.0
+32098-7-0,"IN BETWEEN",ANOTHER,11,11.0
+32099-5-0,SISYPHUS,HYPER,10,10.0
+32099-7-0,SISYPHUS,ANOTHER,12,12.3
+32100-5-0,"EYE OF THE HEAVEN",HYPER,10,10.0
+32100-7-0,"EYE OF THE HEAVEN",ANOTHER,12,12.3
 54001-5-0,"ErAseRmoToR maXimUM",HYPER,7,10.0
 54001-5-1,eRAseRmOToRpHAntOM,HYPER,10,10.2
 54001-7-0,eRAseRmOToRpHAntOM,ANOTHER,12,12.2
