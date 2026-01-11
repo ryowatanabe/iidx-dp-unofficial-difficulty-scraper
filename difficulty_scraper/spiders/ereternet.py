@@ -5,7 +5,7 @@ from difficulty_scraper.items import EreterNetDifficulty
 class EreternetSpider(scrapy.Spider):
     name = "ereternet"
     allowed_domains = ["ereter.net"]
-    start_urls = ["http://ereter.net/iidxsongs/analytics/combined/"]
+    start_urls = ["https://ereter.net/iidxsongs/analytics/combined/"]
 
     def parse(self, response):
         for music in response.css('body > div > div > div.col-md-9.content > div.scale-wrapper > table > tbody > tr'):
