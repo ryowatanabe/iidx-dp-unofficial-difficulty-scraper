@@ -16,8 +16,8 @@ this tool retrieves  unofficial difficulty from below 2 sites
 ## setup venv
 
 ```
-python -m venv venv
-venv\Scripts\Activate
+python -m venv .venv
+source .venv\bin\activate
 ```
 
 ## install dependencies

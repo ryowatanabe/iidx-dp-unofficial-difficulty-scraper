@@ -1303,6 +1303,7 @@ song_id,name,difficulty,level,unofficial_diff
 18033-9-0,WISE UP!,LEGGENDARIA,11,11.6
 18034-5-0,XANADU OF TWO,HYPER,8,7.5
 18034-7-0,XANADU OF TWO,ANOTHER,10,9.6
+18034-9-0,XANADU OF TWO,LEGGENDARIA,11,12.0
 18035-5-0,You Were The One,HYPER,8,8.0
 18035-7-0,You Were The One,ANOTHER,10,10.5
 18036-5-0,ZETA ～素数の世界と超越者～,HYPER,10,10.0
@@ -1419,6 +1420,7 @@ song_id,name,difficulty,level,unofficial_diff
 19017-5-0,Into The Sunlight,HYPER,8,7.5
 19017-7-0,Into The Sunlight,ANOTHER,10,10.5
 19018-7-0,KYAMISAMA ONEGAI!,ANOTHER,9,9.3
+19018-9-0,KYAMISAMA ONEGAI!,LEGGENDARIA,12,12.3
 19019-5-0,LAX5 feat. Ryota Yoshinari,HYPER,9,9.3
 19019-7-0,LAX5 feat. Ryota Yoshinari,ANOTHER,10,10.7
 19020-7-0,Liquid Crystal Girl feat. echo,ANOTHER,9,9.3
@@ -1559,8 +1561,8 @@ song_id,name,difficulty,level,unofficial_diff
 20016-7-0,In Heaven,ANOTHER,9,9.3
 20017-5-0,Liberation,HYPER,10,10.0
 20017-7-0,Liberation,ANOTHER,12,11.8
-20018-5-0,Light and Cyber･･･,HYPER,9,9.3
-20018-7-0,Light and Cyber･･･,ANOTHER,11,12.0
+20018-5-0,Light and Cyber…,HYPER,9,9.3
+20018-7-0,Light and Cyber…,ANOTHER,11,12.0
 20019-5-0,Little Star,HYPER,8,8.0
 20019-7-0,Little Star,ANOTHER,12,12.0
 20020-7-0,LUV CAN SAVE U,ANOTHER,10,10.5
@@ -2005,6 +2007,7 @@ song_id,name,difficulty,level,unofficial_diff
 22056-7-0,Rave*it!! Rave*it!!,ANOTHER,12,12.1
 22057-5-0,Flashes,HYPER,9,9.3
 22057-7-0,Flashes,ANOTHER,12,12.5
+22057-9-0,Flashes,LEGGENDARIA,12,12.5
 22058-5-0,Shooting Fireball,HYPER,10,10.7
 22058-7-0,Shooting Fireball,ANOTHER,12,12.2
 22059-5-0,Despair of ELFERIA,HYPER,10,10.5
@@ -2264,7 +2267,7 @@ song_id,name,difficulty,level,unofficial_diff
 24012-7-0,Music is The Answer,ANOTHER,10,10.2
 24013-5-0,OOO,HYPER,7,7.0
 24013-7-0,OOO,ANOTHER,10,10.0
-24013-9-0,OOO,LEGGENDARIA,11,11.2
+24013-9-0,OOO,LEGGENDARIA,11,11.4
 24014-5-0,OTENAMI Hurricane,HYPER,10,10.2
 24014-7-0,OTENAMI Hurricane,ANOTHER,12,12.4
 24015-5-0,PAPAYAPA BASS,HYPER,8,8.0
@@ -2513,14 +2516,15 @@ song_id,name,difficulty,level,unofficial_diff
 25042-7-0,ハイ*ビスカス ft. Kanae Asaba,ANOTHER,10,10.5
 25043-5-0,純真可憐デザイア,HYPER,8,7.5
 25043-7-0,純真可憐デザイア,ANOTHER,10,10.0
+25043-9-0,純真可憐デザイア,LEGGENDARIA,11,11.4
 25044-5-0,共犯ヘヴンズコード,HYPER,7,7.5
 25044-7-0,共犯ヘヴンズコード,ANOTHER,10,10.0
 25045-5-0,ラストセンチュリーメランコリック,HYPER,8,8.5
 25045-7-0,ラストセンチュリーメランコリック,ANOTHER,11,11.4
 25046-5-0,ナイトシティー・アヴァンチュール,HYPER,7,7.0
 25046-7-0,ナイトシティー・アヴァンチュール,ANOTHER,9,9.3
-25047-5-0,草原の王女 -奇跡を辿って-,HYPER,8,7.0
-25047-7-0,草原の王女 -奇跡を辿って-,ANOTHER,10,10.0
+25047-5-0,草原の王女-軌跡を辿って-,HYPER,8,7.0
+25047-7-0,草原の王女-軌跡を辿って-,ANOTHER,10,10.0
 25048-5-0,うさ☆かめ 大戦争！,HYPER,8,7.5
 25048-7-0,うさ☆かめ 大戦争！,ANOTHER,11,10.5
 25049-5-0,Be a Hero!,HYPER,9,9.0
@@ -2621,6 +2625,7 @@ song_id,name,difficulty,level,unofficial_diff
 26002-7-0,Angels & Demons,ANOTHER,10,10.7
 26003-5-0,CoMAAAAAAA,HYPER,10,10.5
 26003-7-0,CoMAAAAAAA,ANOTHER,10,11.0
+26003-9-0,CoMAAAAAAA,LEGGENDARIA,12,12.6
 26004-5-0,Cranberry City ft. Luschel,HYPER,8,8.0
 26004-7-0,Cranberry City ft. Luschel,ANOTHER,10,10.2
 26005-5-0,dAuntl3ss,HYPER,10,10.2
@@ -2631,6 +2636,7 @@ song_id,name,difficulty,level,unofficial_diff
 26007-7-0,Dr.Chemical & Killing Machine,ANOTHER,12,12.5
 26008-5-0,Ember Lights,HYPER,9,9.3
 26008-7-0,Ember Lights,ANOTHER,11,11.4
+26008-9-0,Ember Lights,LEGGENDARIA,12,12.4
 26009-5-0,Glory,HYPER,7,7.5
 26009-7-0,Glory,ANOTHER,10,10.7
 26010-5-0,HEISEI,HYPER,10,10.0
@@ -2850,6 +2856,7 @@ song_id,name,difficulty,level,unofficial_diff
 27012-7-0,Infinity Mirror,ANOTHER,10,10.7
 27013-5-0,Mel,HYPER,7,7.0
 27013-7-0,Mel,ANOTHER,9,9.0
+27013-9-0,Mel,LEGGENDARIA,10,10.5
 27014-5-0,Moving on,HYPER,8,9.0
 27014-7-0,Moving on,ANOTHER,11,11.4
 27015-5-0,Nasty Techniques,HYPER,9,8.5
@@ -2916,7 +2923,7 @@ song_id,name,difficulty,level,unofficial_diff
 27045-5-0,THE F∀UST,HYPER,10,10.5
 27045-7-0,THE F∀UST,ANOTHER,12,12.5
 27046-5-0,Like+it!,HYPER,9,9.0
-27046-7-0,Like+it!,ANOTHER,11,11.2
+27046-7-0,Like+it!,ANOTHER,11,11.4
 27047-5-0,Rave Patroller,HYPER,10,10.7
 27047-7-0,Rave Patroller,ANOTHER,12,12.1
 27048-5-0,SCREW // owo // SCREW,HYPER,9,9.3
@@ -3148,7 +3155,7 @@ song_id,name,difficulty,level,unofficial_diff
 28052-7-0,世界の果てに約束の凱歌を -ReUnion-,ANOTHER,12,12.3
 28053-5-0,ここからよろしく大作戦143,HYPER,8,8.5
 28053-7-0,ここからよろしく大作戦143,ANOTHER,10,10.2
-28053-9-0,ここからよろしく大作戦143,LEGGENDARIA,11,11.2
+28053-9-0,ここからよろしく大作戦143,LEGGENDARIA,11,11.4
 28054-5-0,Crazy Jackpot,HYPER,9,8.5
 28054-7-0,Crazy Jackpot,ANOTHER,11,11.4
 28055-5-0,Explorer feat. ぷにぷに電機,HYPER,7,7.0
@@ -3497,7 +3504,7 @@ song_id,name,difficulty,level,unofficial_diff
 30019-5-0,Seraph,HYPER,9,9.0
 30019-7-0,Seraph,ANOTHER,11,11.2
 30020-5-0,Shadow World,HYPER,8,8.5
-30020-7-0,Shadow World,ANOTHER,11,11.2
+30020-7-0,Shadow World,ANOTHER,11,11.4
 30021-5-0,Summerblue,HYPER,8,8.0
 30021-7-0,Summerblue,ANOTHER,10,10.5
 30022-5-0,Sunny Day Vibes,HYPER,9,9.6
@@ -3580,6 +3587,7 @@ song_id,name,difficulty,level,unofficial_diff
 30060-7-0,楽園追放,ANOTHER,10,10.7
 30061-5-0,ちょえちょえまぎか,HYPER,10,9.6
 30061-7-0,ちょえちょえまぎか,ANOTHER,11,11.4
+30061-9-0,ちょえちょえまぎか,LEGGENDARIA,12,12.4
 30062-5-0,ONE AND ONLY,HYPER,10,10.0
 30062-7-0,ONE AND ONLY,ANOTHER,12,12.1
 30063-5-0,Super Freak,HYPER,9,9.0
@@ -3719,6 +3727,7 @@ song_id,name,difficulty,level,unofficial_diff
 31020-7-0,Speculation,ANOTHER,11,11.4
 31021-5-0,Submerge Serenade,HYPER,9,9.0
 31021-7-0,Submerge Serenade,ANOTHER,11,11.4
+31021-9-0,Submerge Serenade,LEGGENDARIA,12,12.5
 31022-5-0,This Is Club Musik feat. 大久保紅葉,HYPER,9,9.0
 31022-7-0,This Is Club Musik feat. 大久保紅葉,ANOTHER,11,11.4
 31023-5-0,Time Distortion pt.2(IIDX Edit),HYPER,9,9.3
@@ -3791,6 +3800,7 @@ song_id,name,difficulty,level,unofficial_diff
 31055-7-0,ZEROIN ON THE LIGHT,ANOTHER,10,10.5
 31056-5-0,INHERITANCE,HYPER,9,9.0
 31056-7-0,INHERITANCE,ANOTHER,11,11.2
+31056-9-0,INHERITANCE,LEGGENDARIA,12,12.4
 31057-5-0,winkle 2 winkle,HYPER,9,9.0
 31057-7-0,winkle 2 winkle,ANOTHER,11,11.2
 31058-5-0,Out of Control,HYPER,10,10.2
@@ -3970,7 +3980,7 @@ song_id,name,difficulty,level,unofficial_diff
 32033-7-0,オッド♡ラヴィ,ANOTHER,10,10.5
 32034-5-0,最強頂戴girl♡,HYPER,8,7.5
 32034-7-0,最強頂戴girl♡,ANOTHER,10,10.2
-32035-5-0,灼熱 Lost Summer Dayz,HYPER,10,9.6
+32035-5-0,灼熱 Lost Summer Dayz,HYPER,10,9.3
 32035-7-0,灼熱 Lost Summer Dayz,ANOTHER,12,11.8
 32036-5-0,スパークリング☆彡ハイパーチューン！！,HYPER,10,8.5
 32036-7-0,スパークリング☆彡ハイパーチューン！！,ANOTHER,12,12.0
@@ -4003,7 +4013,7 @@ song_id,name,difficulty,level,unofficial_diff
 32049-7-0,爆ぜりゃんせ,ANOTHER,11,11.6
 32050-5-0,消極的セツナイズム,HYPER,8,8.5
 32050-7-0,消極的セツナイズム,ANOTHER,10,10.0
-32051-5-0,Roar of Chronos,HYPER,10,10.0
+32051-5-0,Roar of Chronos,HYPER,10,9.3
 32051-7-0,Roar of Chronos,ANOTHER,12,12.3
 32052-5-0,我ら完全無敵のアイドル!!,HYPER,8,7.5
 32052-7-0,我ら完全無敵のアイドル!!,ANOTHER,10,10.5
@@ -4118,12 +4128,12 @@ song_id,name,difficulty,level,unofficial_diff
 33001-7-0,A Certified Rave Moment,ANOTHER,11,11.6
 33002-5-0,AGETEKE ONDO,HYPER,7,7.0
 33002-7-0,AGETEKE ONDO,ANOTHER,10,10.0
-33003-5-0,Bang Bang Dance,HYPER,9,9.0
+33003-5-0,Bang Bang Dance,HYPER,9,8.5
 33003-7-0,Bang Bang Dance,ANOTHER,11,11.2
 33004-7-0,Caramel Pain,ANOTHER,9,9.3
 33005-5-0,Catch ya Getcha!,HYPER,9,9.0
 33005-7-0,Catch ya Getcha!,ANOTHER,11,11.4
-33006-5-0,Countdown to Heaven or Hell,HYPER,9,9.0
+33006-5-0,Countdown to Heaven or Hell,HYPER,9,9.3
 33006-7-0,Countdown to Heaven or Hell,ANOTHER,11,11.4
 33007-5-0,Disco Killer Music Lover,HYPER,9,9.0
 33007-7-0,Disco Killer Music Lover,ANOTHER,12,12.2
@@ -4131,9 +4141,9 @@ song_id,name,difficulty,level,unofficial_diff
 33008-7-0,Fashion Fruit,ANOTHER,11,11.6
 33009-5-0,From Human Blood,HYPER,10,10.0
 33009-7-0,From Human Blood,ANOTHER,12,12.3
-33010-5-0,JUST SYNC ft.Kanae Asaba,HYPER,7,7.0
+33010-5-0,JUST SYNC ft.Kanae Asaba,HYPER,7,6.5
 33010-7-0,JUST SYNC ft.Kanae Asaba,ANOTHER,9,9.3
-33011-5-0,LEMON MELON COOKIE,HYPER,7,7.0
+33011-5-0,LEMON MELON COOKIE,HYPER,7,6.5
 33011-7-0,LEMON MELON COOKIE,ANOTHER,9,8.5
 33012-5-0,Makin' It,HYPER,10,10.7
 33012-7-0,Makin' It,ANOTHER,12,12.1
@@ -4151,7 +4161,7 @@ song_id,name,difficulty,level,unofficial_diff
 33018-7-0,Regina vespaE,ANOTHER,12,12.3
 33019-5-0,SHINING☆DANCE,HYPER,7,7.0
 33019-7-0,SHINING☆DANCE,ANOTHER,10,10.0
-33020-5-0,SnapSkipSpark,HYPER,9,9.0
+33020-5-0,SnapSkipSpark,HYPER,9,9.3
 33020-7-0,SnapSkipSpark,ANOTHER,11,11.6
 33021-5-0,Space Battleship S4TØ,HYPER,10,10.0
 33021-7-0,Space Battleship S4TØ,ANOTHER,12,12.3
@@ -4177,7 +4187,7 @@ song_id,name,difficulty,level,unofficial_diff
 33031-7-0,それが、ボクの使命～レスキュー隊長 メンキュー～,ANOTHER,10,10.0
 33032-5-0,デラむぅのでらっくす☆どり～むぅ,HYPER,7,7.0
 33032-7-0,デラむぅのでらっくす☆どり～むぅ,ANOTHER,10,10.0
-33033-5-0,でんぱ どりる わんにゃー☆三,HYPER,9,9.0
+33033-5-0,でんぱ どりる わんにゃー☆三,HYPER,9,8.5
 33033-7-0,でんぱ どりる わんにゃー☆三,ANOTHER,11,11.4
 33034-5-0,夏色のセレナーデ,HYPER,8,8.0
 33034-7-0,夏色のセレナーデ,ANOTHER,10,10.2
@@ -4186,12 +4196,12 @@ song_id,name,difficulty,level,unofficial_diff
 33036-5-0,ビビッド ☆＋＊。キラキライム,HYPER,9,9.0
 33036-7-0,ビビッド ☆＋＊。キラキライム,ANOTHER,12,12.3
 33037-5-0,百恋ラブラスター,HYPER,8,8.0
-33037-7-0,百恋ラブラスター,ANOTHER,10,10.0
+33037-7-0,百恋ラブラスター,ANOTHER,10,10.2
 33038-5-0,ベラ・ベ・カラベラ,HYPER,9,9.0
 33038-7-0,ベラ・ベ・カラベラ,ANOTHER,11,11.6
 33039-5-0,もんめためたもん,HYPER,8,8.0
 33039-7-0,もんめためたもん,ANOTHER,10,10.2
-33040-5-0,煉獄コンフィチュール,HYPER,9,9.0
+33040-5-0,煉獄コンフィチュール,HYPER,9,9.3
 33040-7-0,煉獄コンフィチュール,ANOTHER,11,11.4
 33041-5-0,Shooting Star,HYPER,7,7.0
 33041-7-0,Shooting Star,ANOTHER,10,10.2
@@ -4199,11 +4209,11 @@ song_id,name,difficulty,level,unofficial_diff
 33042-7-0,GOLD RUSH 2025,ANOTHER,11,10.5
 33043-5-0,chaplet -IIDX re:build-,HYPER,10,10.0
 33043-7-0,chaplet -IIDX re:build-,ANOTHER,12,12.4
-33044-5-0,好吃来世deエレクトリック,HYPER,7,7.0
-33044-7-0,好吃来世deエレクトリック,ANOTHER,10,10.0
+33044-5-0,好吃来世deエレクトリック,HYPER,7,7.5
+33044-7-0,好吃来世deエレクトリック,ANOTHER,10,10.2
 33045-5-0,BattleRoyal,HYPER,9,9.0
 33045-7-0,BattleRoyal,ANOTHER,11,11.2
-33046-5-0,Begin,HYPER,10,10.0
+33046-5-0,Begin,HYPER,10,10.2
 33046-7-0,Begin,ANOTHER,12,12.3
 33047-5-0,kors k's Let's make an Image Song!,HYPER,8,8.0
 33047-7-0,kors k's Let's make an Image Song!,ANOTHER,11,11.0
@@ -4215,9 +4225,9 @@ song_id,name,difficulty,level,unofficial_diff
 33050-5-0,COLOR BURST,HYPER,7,7.0
 33050-7-0,COLOR BURST,ANOTHER,10,10.2
 33051-5-0,Astra Blaze,HYPER,10,10.0
-33051-7-0,Astra Blaze,ANOTHER,12,12.3
+33051-7-0,Astra Blaze,ANOTHER,12,12.4
 33052-5-0,GO!,HYPER,9,9.0
-33052-7-0,GO!,ANOTHER,11,11.0
+33052-7-0,GO!,ANOTHER,11,11.2
 33053-5-0,HORIZON BEATZ,HYPER,8,8.0
 33053-7-0,HORIZON BEATZ,ANOTHER,10,10.0
 33054-5-0,King of Tribe,HYPER,10,10.0
@@ -4227,7 +4237,56 @@ song_id,name,difficulty,level,unofficial_diff
 33056-5-0,RIZING-GAMERS.,HYPER,10,10.0
 33056-7-0,RIZING-GAMERS.,ANOTHER,12,12.4
 33057-5-0,SILKY BRAVE,HYPER,9,9.0
-33057-7-0,SILKY BRAVE,ANOTHER,10,10.0
+33057-7-0,SILKY BRAVE,ANOTHER,10,10.7
+33058-5-0,Watermelon Explosion,HYPER,8,8.0
+33058-7-0,Watermelon Explosion,ANOTHER,10,10.2
+33059-7-0,Recorrection,ANOTHER,9,9.3
+33060-5-0,Hallucination,HYPER,9,9.0
+33060-7-0,Hallucination,ANOTHER,11,11.8
+33061-5-0,voice of echo.,HYPER,9,9.0
+33061-7-0,voice of echo.,ANOTHER,11,11.0
+33062-5-0,クレッシェンド,HYPER,9,9.0
+33062-7-0,クレッシェンド,ANOTHER,12,12.3
+33063-5-0,FiZZλ_PØT!0И,HYPER,10,11.0
+33063-7-0,FiZZλ_PØT!0И,ANOTHER,12,12.5
+33064-5-0,Last Card,HYPER,9,9.0
+33064-7-0,Last Card,ANOTHER,11,11.6
+33065-5-0,TOKAKU=ALMiRAJ,HYPER,9,9.0
+33065-7-0,TOKAKU=ALMiRAJ,ANOTHER,11,11.6
+33066-5-0,色を喪った街,HYPER,10,10.2
+33066-7-0,色を喪った街,ANOTHER,12,12.4
+33067-5-0,HyperTwist,HYPER,10,10.5
+33067-7-0,HyperTwist,ANOTHER,12,12.3
+33068-5-0,fixer,HYPER,10,10.0
+33068-7-0,fixer,ANOTHER,12,12.5
+33069-5-0,華麗なる！音戯探偵ひなビタ♫,HYPER,8,8.0
+33069-7-0,華麗なる！音戯探偵ひなビタ♫,ANOTHER,11,11.4
+33070-5-0,レシピのリドル,HYPER,7,7.0
+33070-7-0,レシピのリドル,ANOTHER,10,10.0
+33071-5-0,Show Time,HYPER,7,7.0
+33071-7-0,Show Time,ANOTHER,10,10.0
+33072-5-0,タンポポ,HYPER,9,9.0
+33072-7-0,タンポポ,ANOTHER,11,11.4
+33073-5-0,Nemophila,HYPER,9,9.0
+33073-7-0,Nemophila,ANOTHER,11,11.0
+33074-5-0,UNDO THE NIGHT,HYPER,9,9.0
+33074-7-0,UNDO THE NIGHT,ANOTHER,12,12.0
+33075-5-0,PERFECT GREAT!!,HYPER,10,10.0
+33075-7-0,PERFECT GREAT!!,ANOTHER,12,12.5
+33076-5-0,Amor∞Fati,HYPER,10,10.0
+33076-7-0,Amor∞Fati,ANOTHER,12,12.5
+33077-5-0,HEROES,HYPER,10,10.0
+33077-7-0,HEROES,ANOTHER,12,12.4
+33078-5-0,Signs and Wonders,HYPER,7,7.0
+33078-7-0,Signs and Wonders,ANOTHER,9,9.0
+33079-5-0,オーバーライド,HYPER,9,9.0
+33079-7-0,オーバーライド,ANOTHER,11,11.0
+33080-5-0,不死身ごっこ,HYPER,7,7.0
+33080-7-0,不死身ごっこ,ANOTHER,10,10.0
+33081-5-0,ベンガル vs. アムール Battle,HYPER,10,10.0
+33081-7-0,ベンガル vs. アムール Battle,ANOTHER,12,12.0
+33082-5-0,ラブコメトキドキシリアス,HYPER,10,10.0
+33082-7-0,ラブコメトキドキシリアス,ANOTHER,12,12.0
 54001-5-0,ErAseRmoToR maXimUM,HYPER,7,10.0
 54001-5-1,eRAseRmOToRpHAntOM,HYPER,10,10.2
 54001-7-0,eRAseRmOToRpHAntOM,ANOTHER,12,12.2
@@ -4316,6 +4375,7 @@ song_id,name,difficulty,level,unofficial_diff
 62009-7-0,in the Sky,ANOTHER,11,11.6
 62010-5-0,サヨナラ・ヘヴン,HYPER,7,7.0
 62010-7-0,サヨナラ・ヘヴン,ANOTHER,8,8.5
+62010-9-0,サヨナラ・ヘヴン,LEGGENDARIA,10,10.0
 63001-7-0,321STARS,ANOTHER,9,9.6
 63002-5-0,Attack the music,HYPER,7,7.0
 63003-5-0,Back Into The Light [Long],HYPER,9,9.0
@@ -4453,6 +4513,7 @@ song_id,name,difficulty,level,unofficial_diff
 66011-7-0,Unicorn tail,ANOTHER,12,12.1
 66012-5-0,Time to Empress,HYPER,9,9.6
 66012-7-0,Time to Empress,ANOTHER,11,11.4
+66012-9-0,Time to Empress,LEGGENDARIA,12,12.2
 66013-5-0,Back Into The Light -Feelings Won't Fade Vocal Mix-,HYPER,9,9.0
 66013-7-0,Back Into The Light -Feelings Won't Fade Vocal Mix-,ANOTHER,11,11.2
 66014-5-0,ERaSeR EnGinE DistorteD,HYPER,10,10.0
