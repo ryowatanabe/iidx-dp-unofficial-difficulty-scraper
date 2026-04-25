@@ -6,7 +6,7 @@
   - 完了条件: `UnofficialDifficulty` アイテムに `version` フィールドが定義されている
   - _Requirements: 1.2_
 
-- [ ] 2. Spider と Pipeline でバージョン取得・保存を実装する
+- [x] 2. Spider と Pipeline でバージョン取得・保存を実装する
 - [x] 2.1 (P) parsePost() をバージョン略称の抽出と VERSION_MAP マッピングに対応させる
   - `difficulty_scraper/version_map` から `VERSION_MAP` をインポートする
   - `row.css('.rank_p2_inner a.music')` のイテレーションを `row.css('.rank_p2_inner tr')` に変更し、外側ループでバージョンを取得してから内側ループで楽曲を処理する
@@ -24,7 +24,7 @@
   - _Requirements: 1.1, 4.1, 4.2_
   - _Boundary: DifficultyScraperPipeline_
 
-- [ ] 3. 動作を検証する
+- [x] 3. 動作を検証する
 - [x] 3.1 VERSION_MAP の変換ロジックをユニットテストで検証する
   - 登録済みキー（例: `"GOLD"`）が正しい `float` 値を返すことをアサートする
   - 未登録キー（例: `"UNKNOWN"`）が `None` を返すことをアサートする
@@ -33,7 +33,7 @@
   - 完了条件: テスト実行で全アサーションが PASS すること
   - _Requirements: 3.1, 3.2, 3.3_
 
-- [ ] 3.2 統合テストとマイグレーションテストで全体動作を検証する
+- [x] 3.2 統合テストとマイグレーションテストで全体動作を検証する
   - `scrapy crawl unofficial_diff` を実行し、`unofficial_difficulty` テーブルに `version IS NOT NULL` のレコードが存在することを確認する（バージョン登録済み楽曲）
   - `version IS NULL` のレコードも正常に保存されていることを確認する（バージョン未登録または変換表未登録の楽曲）
   - `export_csv.py` を実行し、`unofficial_difficulty.csv` に `version` 列が含まれ `float` 値（または空）が出力されることを確認する
