@@ -25,7 +25,7 @@
   - _Boundary: DifficultyScraperPipeline_
 
 - [ ] 3. 動作を検証する
-- [ ] 3.1 VERSION_MAP の変換ロジックをユニットテストで検証する
+- [x] 3.1 VERSION_MAP の変換ロジックをユニットテストで検証する
   - 登録済みキー（例: `"GOLD"`）が正しい `float` 値を返すことをアサートする
   - 未登録キー（例: `"UNKNOWN"`）が `None` を返すことをアサートする
   - `version_str = None` のとき `version = None` となるガードロジックを確認する
