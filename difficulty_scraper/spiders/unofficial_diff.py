@@ -1,6 +1,7 @@
 import scrapy
 import re
 from difficulty_scraper.items import UnofficialDifficulty
+from difficulty_scraper.version_map import VERSION_MAP
 import logging
 
 class UnofficialDiffSpider(scrapy.Spider):
@@ -47,14 +48,18 @@ class UnofficialDiffSpider(scrapy.Spider):
             diff = row.css('td:first-child::text').extract_first()
             if not(diff is None):
                 self.logger.debug(diff)
-                for song in row.css('.rank_p2_inner a.music'):
-                    song_id = re.sub('^music.php\?id\=([\-0-9]+)$', r'\1', song.css('a::attr(href)').extract_first().strip())
-                    name = re.sub('\s\[[NHAL]\]$', '', song.css('span::text').extract_first().strip())
-                    difficulty = self.difficulty_map[re.sub('^.*\s\[([NHAL])\]$', r'\1', song.css('span::text').extract_first().strip())]
-                    yield UnofficialDifficulty(
-                        song_id         = song_id,
-                        name            = name,
-                        difficulty      = difficulty,
-                        level           = level,
-                        unofficial_diff = diff
-                    )
+                for inner_row in row.css('.rank_p2_inner tr'):
+                    version_str = inner_row.css('th::text').extract_first()
+                    version = VERSION_MAP.get(version_str.strip()) if version_str else None
+                    for song in inner_row.css('a.music'):
+                        song_id = re.sub(r'^music.php\?id\=([\-0-9]+)$', r'\1', song.css('a::attr(href)').extract_first().strip())
+                        name = re.sub(r'\s\[[NHAL]\]$', '', song.css('span::text').extract_first().strip())
+                        difficulty = self.difficulty_map[re.sub(r'^.*\s\[([NHAL])\]$', r'\1', song.css('span::text').extract_first().strip())]
+                        yield UnofficialDifficulty(
+                            song_id         = song_id,
+                            name            = name,
+                            difficulty      = difficulty,
+                            level           = level,
+                            unofficial_diff = diff,
+                            version         = version
+                        )

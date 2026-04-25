@@ -7,7 +7,7 @@
   - _Requirements: 1.2_
 
 - [ ] 2. Spider と Pipeline でバージョン取得・保存を実装する
-- [ ] 2.1 (P) parsePost() をバージョン略称の抽出と VERSION_MAP マッピングに対応させる
+- [x] 2.1 (P) parsePost() をバージョン略称の抽出と VERSION_MAP マッピングに対応させる
   - `difficulty_scraper/version_map` から `VERSION_MAP` をインポートする
   - `row.css('.rank_p2_inner a.music')` のイテレーションを `row.css('.rank_p2_inner tr')` に変更し、外側ループでバージョンを取得してから内側ループで楽曲を処理する
   - 各内側行の `th::text` からバージョン略称を取得し、`VERSION_MAP.get(version_str.strip()) if version_str else None` でマッピングする
