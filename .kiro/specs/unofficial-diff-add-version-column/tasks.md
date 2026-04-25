@@ -16,7 +16,7 @@
   - _Requirements: 1.1, 1.2, 1.3, 3.1, 3.2_
   - _Boundary: UnofficialDiffSpider_
 
-- [ ] 2.2 (P) unofficial_difficulty テーブルに version カラムを追加し、既存 DB マイグレーションを実装する
+- [x] 2.2 (P) unofficial_difficulty テーブルに version カラムを追加し、既存 DB マイグレーションを実装する
   - `get_database()` の `CREATE TABLE IF NOT EXISTS unofficial_difficulty` 定義末尾に `version REAL` を追加する（新規 DB 用）
   - `CREATE TABLE IF NOT EXISTS` の直後に `ALTER TABLE unofficial_difficulty ADD COLUMN version REAL` を実行し、`sqlite3.OperationalError` を `pass` で catch してべき等に動作させる
   - `save_unofficial_difficulty()` の `REPLACE INTO` カラムリストとパラメータタプルに `version` を追加する

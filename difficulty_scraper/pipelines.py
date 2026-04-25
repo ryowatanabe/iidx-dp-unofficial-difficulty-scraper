@@ -33,13 +33,21 @@ class DifficultyScraperPipeline:
                 exh_count INTEGER NOT NULL \
             );')
         cursor.execute(
-            'CREATE TABLE IF NOT EXISTS unofficial_difficulty(\
-                song_id TEXT PRIMARY KEY, \
-                name TEXT NOT NULL, \
-                difficulty TEXT NOT NULL, \
-                level INT NOT NULL, \
-                unofficial_diff REAL NOT NULL \
-            );')
+            'CREATE TABLE IF NOT EXISTS unofficial_difficulty('
+            '    song_id TEXT PRIMARY KEY, '
+            '    name TEXT NOT NULL, '
+            '    difficulty TEXT NOT NULL, '
+            '    level INT NOT NULL, '
+            '    unofficial_diff REAL NOT NULL, '
+            '    version REAL'
+            ');'
+        )
+        # 既存 DB マイグレーション（べき等）
+        try:
+            cursor.execute('ALTER TABLE unofficial_difficulty ADD COLUMN version REAL')
+            cls._db.commit()
+        except sqlite3.OperationalError:
+            pass  # カラム既存の場合は無視
 
         return cls._db
 
@@ -75,14 +83,15 @@ class DifficultyScraperPipeline:
     def save_unofficial_difficulty(self, item):
         db = self.get_database()
         db.execute(
-            'REPLACE INTO unofficial_difficulty( \
-                song_id, name, difficulty, level, unofficial_diff \
-            ) VALUES (?, ?, ?, ?, ?)', (
+            'REPLACE INTO unofficial_difficulty('
+            '  song_id, name, difficulty, level, unofficial_diff, version'
+            ') VALUES (?, ?, ?, ?, ?, ?)', (
                 item['song_id'],
                 item['name'],
                 item['difficulty'],
                 item['level'],
-                item['unofficial_diff']
+                item['unofficial_diff'],
+                item['version']
             )
         )
         db.commit()
