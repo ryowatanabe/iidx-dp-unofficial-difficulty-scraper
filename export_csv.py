@@ -15,21 +15,26 @@ conn = sqlite3.connect(db_path)
 conn.row_factory = sqlite3.Row  # Get results as dictionaries
 cursor = conn.cursor()
 
-def export_csv(query, output_file):
+def export_csv(query, output_file, int_columns=None):
     """Execute query and export results to CSV file with headers."""
     try:
         cursor.execute(query)
         rows = cursor.fetchall()
-        
+
         if rows:
             # Get column names
             columns = [description[0] for description in cursor.description]
-            
+
             # Write to CSV file
             with open(output_file, 'w', newline='', encoding='utf-8') as f:
                 writer = csv.writer(f, lineterminator='\n')
                 writer.writerow(columns)  # Write header
                 for row in rows:
+                    if int_columns:
+                        row = [
+                            int(val) if col in int_columns and isinstance(val, float) and val == int(val) else val
+                            for col, val in zip(columns, row)
+                        ]
                     writer.writerow(row)
             
             print(f"✓ Exported to {output_file} ({len(rows)} rows)")
@@ -42,7 +47,8 @@ def export_csv(query, output_file):
 # Export the three CSV files
 export_csv(
     "select * from unofficial_difficulty order by song_id",
-    os.path.join(output_dir, 'unofficial_difficulty.csv')
+    os.path.join(output_dir, 'unofficial_difficulty.csv'),
+    int_columns={'version'}
 )
 
 export_csv(
