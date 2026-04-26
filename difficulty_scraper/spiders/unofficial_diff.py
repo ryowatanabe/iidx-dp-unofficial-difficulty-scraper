@@ -1,6 +1,7 @@
 import scrapy
 import re
 from difficulty_scraper.items import UnofficialDifficulty
+from difficulty_scraper.version_map import VERSION_MAP
 import logging
 
 class UnofficialDiffSpider(scrapy.Spider):
@@ -26,7 +27,7 @@ class UnofficialDiffSpider(scrapy.Spider):
         #                    'c120', 'c130', 'c140', 'c150', 'c160',
         #                    'a120', 'a130', 'a140', 'a150', 'a160', 'a170', 'a180', 'a190', 'a200',
         #    'a210',         'a220', 'a230', 'a240', 'a250', 'a260', 'a270', 'a280', 'a290', 'a300',
-        #    'a310'
+        #    'a310', 'a320', 'a330'
         #]
         offis = [ 7, 8, 9, 10, 11, 12 ]
 
@@ -47,14 +48,18 @@ class UnofficialDiffSpider(scrapy.Spider):
             diff = row.css('td:first-child::text').extract_first()
             if not(diff is None):
                 self.logger.debug(diff)
-                for song in row.css('.rank_p2_inner a.music'):
-                    song_id = re.sub('^music.php\?id\=([\-0-9]+)$', r'\1', song.css('a::attr(href)').extract_first().strip())
-                    name = re.sub('\s\[[NHAL]\]$', '', song.css('span::text').extract_first().strip())
-                    difficulty = self.difficulty_map[re.sub('^.*\s\[([NHAL])\]$', r'\1', song.css('span::text').extract_first().strip())]
-                    yield UnofficialDifficulty(
-                        song_id         = song_id,
-                        name            = name,
-                        difficulty      = difficulty,
-                        level           = level,
-                        unofficial_diff = diff
-                    )
+                for inner_row in row.css('.rank_p2_inner tr'):
+                    version_str = inner_row.css('th::text').extract_first()
+                    version = VERSION_MAP.get(version_str.strip()) if version_str else None
+                    for song in inner_row.css('a.music'):
+                        song_id = re.sub(r'^music.php\?id\=([\-0-9]+)$', r'\1', song.css('a::attr(href)').extract_first().strip())
+                        name = re.sub(r'\s\[[NHAL]\]$', '', song.css('span::text').extract_first().strip())
+                        difficulty = self.difficulty_map[re.sub(r'^.*\s\[([NHAL])\]$', r'\1', song.css('span::text').extract_first().strip())]
+                        yield UnofficialDifficulty(
+                            song_id         = song_id,
+                            name            = name,
+                            difficulty      = difficulty,
+                            level           = level,
+                            unofficial_diff = diff,
+                            version         = version
+                        )

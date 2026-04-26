@@ -4,3 +4,29 @@
 
 .venv
 venv
+
+.serena/
+
+# IDE
+.idea
+.vscode
+
+# Claude Code local settings
+.claude/settings.json
+.claude/settings.local.json
+.claude/agents
+.claude/commands
+
+# MCP
+.mcp.json
+.playwright-mcp/
+
+# Dotfiles (environment-specific, not project files)
+.bash_profile
+.bashrc
+.gitconfig
+.gitmodules
+.profile
+.ripgreprc
+.zprofile
+.zshrc

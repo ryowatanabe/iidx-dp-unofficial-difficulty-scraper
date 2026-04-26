@@ -23,3 +23,4 @@ class UnofficialDifficulty(scrapy.Item):
     difficulty = scrapy.Field()
     level = scrapy.Field()
     unofficial_diff = scrapy.Field()
+    version = scrapy.Field()
