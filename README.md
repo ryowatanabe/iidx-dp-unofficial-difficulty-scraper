@@ -17,7 +17,7 @@ this tool retrieves  unofficial difficulty from below 2 sites
 
 ```
 python -m venv .venv
-source .venv\bin\activate
+source .venv/bin/activate
 ```
 
 ## install dependencies
